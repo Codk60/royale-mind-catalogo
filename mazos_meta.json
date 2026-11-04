@@ -1,0 +1,3330 @@
+[
+  {
+    "hashId": "c_arbustosospechoso|c_barrildeesqueletos|c_berserker|c_cohete|c_duendelanzadardos|c_fantasmareal|c_pillos|c_tronco",
+    "id": "5711cc4f52896c292df03a40a2485979c092a05cb373e8c90cd6ea629fca26d6",
+    "cartasIds": [
+      "c_arbustosospechoso",
+      "c_barrildeesqueletos",
+      "c_berserker",
+      "c_cohete",
+      "c_duendelanzadardos",
+      "c_fantasmareal",
+      "c_pillos",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/berserker-hero,dart-goblin-ev1,rascals,rocket,royal-ghost,skeleton-barrel-ev1,suspicious-bush,the-log",
+    "variantesFuente": [
+      "berserker-hero",
+      "dart-goblin-ev1",
+      "rascals",
+      "rocket",
+      "royal-ghost",
+      "skeleton-barrel-ev1",
+      "suspicious-bush",
+      "the-log"
+    ],
+    "nombre": "c_arbustosospechoso + c_barrildeesqueletos [5711cc4f52896c292df03a40a2485979c092a05cb373e8c90cd6ea629fca26d6]"
+  },
+  {
+    "hashId": "c_arbustosospechoso|c_barrildeesqueletos|c_boladefuego|c_duendelanzadardos|c_esbirros|c_granminero|c_pandilladeduendes|c_reclutasreales",
+    "id": "2963779b620969a1de5b66dde987cce8faac14a37c2935fef0fe6c9de6ea98c6",
+    "cartasIds": [
+      "c_arbustosospechoso",
+      "c_barrildeesqueletos",
+      "c_boladefuego",
+      "c_duendelanzadardos",
+      "c_esbirros",
+      "c_granminero",
+      "c_pandilladeduendes",
+      "c_reclutasreales"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dart-goblin,fireball,goblin-gang,mighty-miner,minions,royal-recruits-ev1,skeleton-barrel-ev1,suspicious-bush",
+    "variantesFuente": [
+      "dart-goblin",
+      "fireball",
+      "goblin-gang",
+      "mighty-miner",
+      "minions",
+      "royal-recruits-ev1",
+      "skeleton-barrel-ev1",
+      "suspicious-bush"
+    ],
+    "nombre": "c_arbustosospechoso + c_barrildeesqueletos [2963779b620969a1de5b66dde987cce8faac14a37c2935fef0fe6c9de6ea98c6]"
+  },
+  {
+    "hashId": "c_arbustosospechoso|c_barrildeesqueletos|c_duendelanzadardos|c_duendes|c_fantasmareal|c_hielo|c_pillos|c_tronco",
+    "id": "afeb823bd2e5036024ba0cba31c6ddeee5948d7f1becc594b991ce54dac12cfe",
+    "cartasIds": [
+      "c_arbustosospechoso",
+      "c_barrildeesqueletos",
+      "c_duendelanzadardos",
+      "c_duendes",
+      "c_fantasmareal",
+      "c_hielo",
+      "c_pillos",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dart-goblin-ev1,freeze,goblins-hero,rascals,royal-ghost,skeleton-barrel-ev1,suspicious-bush,the-log",
+    "variantesFuente": [
+      "dart-goblin-ev1",
+      "freeze",
+      "goblins-hero",
+      "rascals",
+      "royal-ghost",
+      "skeleton-barrel-ev1",
+      "suspicious-bush",
+      "the-log"
+    ],
+    "nombre": "c_arbustosospechoso + c_barrildeesqueletos [afeb823bd2e5036024ba0cba31c6ddeee5948d7f1becc594b991ce54dac12cfe]"
+  },
+  {
+    "hashId": "c_arqueras|c_ballesta|c_boladefuego|c_caballero|c_espirituelectrico|c_esqueletos|c_torretesla|c_tronco",
+    "id": "1dd0ee8f377b79a471c33cdd66c55ba333680ad1dd5ed35a5b8b353c1baf94d3",
+    "cartasIds": [
+      "c_arqueras",
+      "c_ballesta",
+      "c_boladefuego",
+      "c_caballero",
+      "c_espirituelectrico",
+      "c_esqueletos",
+      "c_torretesla",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archers-ev1,electro-spirit,fireball,knight-hero,skeletons,tesla-ev1,the-log,x-bow",
+    "variantesFuente": [
+      "archers-ev1",
+      "electro-spirit",
+      "fireball",
+      "knight-hero",
+      "skeletons",
+      "tesla-ev1",
+      "the-log",
+      "x-bow"
+    ],
+    "nombre": "c_arqueras + c_ballesta [1dd0ee8f377b79a471c33cdd66c55ba333680ad1dd5ed35a5b8b353c1baf94d3]"
+  },
+  {
+    "hashId": "c_arqueras|c_ballesta|c_boladefuego|c_espiritudehielo|c_esqueletos|c_golemdehielo|c_torretesla|c_tronco",
+    "id": "b919875d2506daedc78c90cc7881a61f60f16c4a9db198781367faab34c99378",
+    "cartasIds": [
+      "c_arqueras",
+      "c_ballesta",
+      "c_boladefuego",
+      "c_espiritudehielo",
+      "c_esqueletos",
+      "c_golemdehielo",
+      "c_torretesla",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archers-ev1,fireball,ice-golem-hero,ice-spirit,skeletons,tesla-ev1,the-log,x-bow",
+    "variantesFuente": [
+      "archers-ev1",
+      "fireball",
+      "ice-golem-hero",
+      "ice-spirit",
+      "skeletons",
+      "tesla-ev1",
+      "the-log",
+      "x-bow"
+    ],
+    "nombre": "c_arqueras + c_ballesta [b919875d2506daedc78c90cc7881a61f60f16c4a9db198781367faab34c99378]"
+  },
+  {
+    "hashId": "c_arqueras|c_ballesta|c_caballero|c_cohete|c_espirituelectrico|c_esqueletos|c_torretesla|c_tronco",
+    "id": "59b34c4c2e4caab3b1131eae652c4c030a284966d09bb00916185c4c0ef68df2",
+    "cartasIds": [
+      "c_arqueras",
+      "c_ballesta",
+      "c_caballero",
+      "c_cohete",
+      "c_espirituelectrico",
+      "c_esqueletos",
+      "c_torretesla",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archers-ev1,electro-spirit,knight-hero,rocket,skeletons,tesla-ev1,the-log,x-bow",
+    "variantesFuente": [
+      "archers-ev1",
+      "electro-spirit",
+      "knight-hero",
+      "rocket",
+      "skeletons",
+      "tesla-ev1",
+      "the-log",
+      "x-bow"
+    ],
+    "nombre": "c_arqueras + c_ballesta [59b34c4c2e4caab3b1131eae652c4c030a284966d09bb00916185c4c0ef68df2]"
+  },
+  {
+    "hashId": "c_arqueras|c_ballesta|c_caballero|c_cohete|c_espirituelectrico|c_magodehielo|c_torretesla|c_tronco",
+    "id": "4f87f0688fd0cb6fcf37c0106106a459a4f3c9c96d9678b0c9935dd93c3d93a2",
+    "cartasIds": [
+      "c_arqueras",
+      "c_ballesta",
+      "c_caballero",
+      "c_cohete",
+      "c_espirituelectrico",
+      "c_magodehielo",
+      "c_torretesla",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archers-ev1,electro-spirit,ice-wizard-hero,knight,rocket,tesla-ev1,the-log,x-bow",
+    "variantesFuente": [
+      "archers-ev1",
+      "electro-spirit",
+      "ice-wizard-hero",
+      "knight",
+      "rocket",
+      "tesla-ev1",
+      "the-log",
+      "x-bow"
+    ],
+    "nombre": "c_arqueras + c_ballesta [4f87f0688fd0cb6fcf37c0106106a459a4f3c9c96d9678b0c9935dd93c3d93a2]"
+  },
+  {
+    "hashId": "c_arqueras|c_barbarosdeelite|c_caballero|c_espiritusanador|c_furia|c_monje|c_recolectordeelixir|c_tresmosqueteras",
+    "id": "9e538aa191deb74630c50c9755188f5a5f54393e880bda7770859af4c3b5ac05",
+    "cartasIds": [
+      "c_arqueras",
+      "c_barbarosdeelite",
+      "c_caballero",
+      "c_espiritusanador",
+      "c_furia",
+      "c_monje",
+      "c_recolectordeelixir",
+      "c_tresmosqueteras"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archers,elite-barbarians-ev1,elixir-collector,heal-spirit,knight-ev1,monk,rage,three-musketeers",
+    "variantesFuente": [
+      "archers",
+      "elite-barbarians-ev1",
+      "elixir-collector",
+      "heal-spirit",
+      "knight-ev1",
+      "monk",
+      "rage",
+      "three-musketeers"
+    ],
+    "nombre": "c_arqueras + c_barbarosdeelite [9e538aa191deb74630c50c9755188f5a5f54393e880bda7770859af4c3b5ac05]"
+  },
+  {
+    "hashId": "c_arqueras|c_barrildebarbaro|c_boladefuego|c_caballero|c_canon|c_esbirrogigante|c_esqueletos|c_magodehielo",
+    "id": "25a77cce71995753472bbcaab577d04f25838933c498232826a4fc3aacc09c4b",
+    "cartasIds": [
+      "c_arqueras",
+      "c_barrildebarbaro",
+      "c_boladefuego",
+      "c_caballero",
+      "c_canon",
+      "c_esbirrogigante",
+      "c_esqueletos",
+      "c_magodehielo"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archers-ev1,barbarian-barrel,cannon-ev1,fireball,ice-wizard-hero,knight,minion-giant,skeletons",
+    "variantesFuente": [
+      "archers-ev1",
+      "barbarian-barrel",
+      "cannon-ev1",
+      "fireball",
+      "ice-wizard-hero",
+      "knight",
+      "minion-giant",
+      "skeletons"
+    ],
+    "nombre": "c_arqueras + c_barrildebarbaro [25a77cce71995753472bbcaab577d04f25838933c498232826a4fc3aacc09c4b]"
+  },
+  {
+    "hashId": "c_arqueras|c_barrildebarbaro|c_caballero|c_chozadeduendes|c_espirituelectrico|c_magodehielo|c_puercosreales|c_rayo",
+    "id": "c3ca88671067afce9422e681a902de89f7eb843b2e0ddc01dd32a43a2aa510b9",
+    "cartasIds": [
+      "c_arqueras",
+      "c_barrildebarbaro",
+      "c_caballero",
+      "c_chozadeduendes",
+      "c_espirituelectrico",
+      "c_magodehielo",
+      "c_puercosreales",
+      "c_rayo"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archers-ev1,barbarian-barrel,electro-spirit,goblin-hut,ice-wizard-hero,knight,lightning,royal-hogs-ev1",
+    "variantesFuente": [
+      "archers-ev1",
+      "barbarian-barrel",
+      "electro-spirit",
+      "goblin-hut",
+      "ice-wizard-hero",
+      "knight",
+      "lightning",
+      "royal-hogs-ev1"
+    ],
+    "nombre": "c_arqueras + c_barrildebarbaro [c3ca88671067afce9422e681a902de89f7eb843b2e0ddc01dd32a43a2aa510b9]"
+  },
+  {
+    "hashId": "c_arqueras|c_barrildeduendes|c_canonconruedas|c_descarga|c_duendelanzadardos|c_megacaballero|c_pandilladeduendes|c_principe",
+    "id": "3e0485507ddef1662763bfcb9b27f573686730a749154728cbd3edbc7abb76b3",
+    "cartasIds": [
+      "c_arqueras",
+      "c_barrildeduendes",
+      "c_canonconruedas",
+      "c_descarga",
+      "c_duendelanzadardos",
+      "c_megacaballero",
+      "c_pandilladeduendes",
+      "c_principe"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archers-ev1,cannon-cart,dart-goblin,goblin-barrel,goblin-gang,mega-knight-ev1,prince,zap",
+    "variantesFuente": [
+      "archers-ev1",
+      "cannon-cart",
+      "dart-goblin",
+      "goblin-barrel",
+      "goblin-gang",
+      "mega-knight-ev1",
+      "prince",
+      "zap"
+    ],
+    "nombre": "c_arqueras + c_barrildeduendes [3e0485507ddef1662763bfcb9b27f573686730a749154728cbd3edbc7abb76b3]"
+  },
+  {
+    "hashId": "c_arqueras|c_cohete|c_espiritudefuego|c_esqueletos|c_mortero|c_tornado|c_tronco|c_valquiria",
+    "id": "3beac2c2ba95ed3da2e26cd29b25e275f1165a102e91f68dd2db98e51355f581",
+    "cartasIds": [
+      "c_arqueras",
+      "c_cohete",
+      "c_espiritudefuego",
+      "c_esqueletos",
+      "c_mortero",
+      "c_tornado",
+      "c_tronco",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archers-ev1,fire-spirit,mortar-ev1,rocket,skeletons,the-log,tornado,valkyrie-hero",
+    "variantesFuente": [
+      "archers-ev1",
+      "fire-spirit",
+      "mortar-ev1",
+      "rocket",
+      "skeletons",
+      "the-log",
+      "tornado",
+      "valkyrie-hero"
+    ],
+    "nombre": "c_arqueras + c_cohete [3beac2c2ba95ed3da2e26cd29b25e275f1165a102e91f68dd2db98e51355f581]"
+  },
+  {
+    "hashId": "c_arqueromagico|c_bandida|c_boladefuego|c_carnerodebatalla|c_descarga|c_fantasmareal|c_magoelectrico|c_pekka",
+    "id": "b543597bec0b58d93e5eeb7159b4edc221cae7a830a010ec96a37a82a768701f",
+    "cartasIds": [
+      "c_arqueromagico",
+      "c_bandida",
+      "c_boladefuego",
+      "c_carnerodebatalla",
+      "c_descarga",
+      "c_fantasmareal",
+      "c_magoelectrico",
+      "c_pekka"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bandit,battle-ram-ev1,electro-wizard-hero,fireball,magic-archer,pekka-ev1,royal-ghost,zap",
+    "variantesFuente": [
+      "bandit",
+      "battle-ram-ev1",
+      "electro-wizard-hero",
+      "fireball",
+      "magic-archer",
+      "pekka-ev1",
+      "royal-ghost",
+      "zap"
+    ],
+    "nombre": "c_arqueromagico + c_bandida [b543597bec0b58d93e5eeb7159b4edc221cae7a830a010ec96a37a82a768701f]"
+  },
+  {
+    "hashId": "c_arqueromagico|c_barbaros|c_cohete|c_espiritudefuego|c_espiritudehielo|c_fantasmareal|c_golemdehielo|c_mortero",
+    "id": "e04f914918c67e84785bb42cd0b99788b6d6de0b5e1bfe6ff45a74537041f262",
+    "cartasIds": [
+      "c_arqueromagico",
+      "c_barbaros",
+      "c_cohete",
+      "c_espiritudefuego",
+      "c_espiritudehielo",
+      "c_fantasmareal",
+      "c_golemdehielo",
+      "c_mortero"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarians,fire-spirit,ice-golem,ice-spirit,magic-archer-hero,mortar-ev1,rocket,royal-ghost-ev1",
+    "variantesFuente": [
+      "barbarians",
+      "fire-spirit",
+      "ice-golem",
+      "ice-spirit",
+      "magic-archer-hero",
+      "mortar-ev1",
+      "rocket",
+      "royal-ghost-ev1"
+    ],
+    "nombre": "c_arqueromagico + c_barbaros [e04f914918c67e84785bb42cd0b99788b6d6de0b5e1bfe6ff45a74537041f262]"
+  },
+  {
+    "hashId": "c_arqueromagico|c_boladefuego|c_carnerodebatalla|c_descarga|c_fantasmareal|c_magoelectrico|c_pekka|c_principeoscuro",
+    "id": "aec3c9585d133eab93a76d87529592bd453824af01a0ac2be6acd889be7a931e",
+    "cartasIds": [
+      "c_arqueromagico",
+      "c_boladefuego",
+      "c_carnerodebatalla",
+      "c_descarga",
+      "c_fantasmareal",
+      "c_magoelectrico",
+      "c_pekka",
+      "c_principeoscuro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/battle-ram-ev1,dark-prince-hero,electro-wizard-hero,fireball,magic-archer,pekka,royal-ghost,zap",
+    "variantesFuente": [
+      "battle-ram-ev1",
+      "dark-prince-hero",
+      "electro-wizard-hero",
+      "fireball",
+      "magic-archer",
+      "pekka",
+      "royal-ghost",
+      "zap"
+    ],
+    "nombre": "c_arqueromagico + c_boladefuego [aec3c9585d133eab93a76d87529592bd453824af01a0ac2be6acd889be7a931e]"
+  },
+  {
+    "hashId": "c_arqueromagico|c_caballero|c_duendedemolicion|c_esqueletos|c_excavadoradeduendes|c_tornado|c_torrebombardera|c_tronco",
+    "id": "48a627efc63de56cd624584f166e4002c20e15811bfff484dade8269d8ddac3a",
+    "cartasIds": [
+      "c_arqueromagico",
+      "c_caballero",
+      "c_duendedemolicion",
+      "c_esqueletos",
+      "c_excavadoradeduendes",
+      "c_tornado",
+      "c_torrebombardera",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bomb-tower,goblin-demolisher,goblin-drill-ev1,knight-hero,magic-archer,skeletons-ev1,the-log,tornado",
+    "variantesFuente": [
+      "bomb-tower",
+      "goblin-demolisher",
+      "goblin-drill-ev1",
+      "knight-hero",
+      "magic-archer",
+      "skeletons-ev1",
+      "the-log",
+      "tornado"
+    ],
+    "nombre": "c_arqueromagico + c_caballero [48a627efc63de56cd624584f166e4002c20e15811bfff484dade8269d8ddac3a]"
+  },
+  {
+    "hashId": "c_ballesta|c_boladenieve|c_caballero|c_cohete|c_esqueletos|c_magodehielo|c_torretesla|c_tronco",
+    "id": "3922b0320b2117a38ffc62b5160fda05c04342ce6607c2dbb86668171709ee3d",
+    "cartasIds": [
+      "c_ballesta",
+      "c_boladenieve",
+      "c_caballero",
+      "c_cohete",
+      "c_esqueletos",
+      "c_magodehielo",
+      "c_torretesla",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/giant-snowball-ev1,ice-wizard-hero,knight,rocket,skeletons,tesla-ev1,the-log,x-bow",
+    "variantesFuente": [
+      "giant-snowball-ev1",
+      "ice-wizard-hero",
+      "knight",
+      "rocket",
+      "skeletons",
+      "tesla-ev1",
+      "the-log",
+      "x-bow"
+    ],
+    "nombre": "c_ballesta + c_boladenieve [3922b0320b2117a38ffc62b5160fda05c04342ce6607c2dbb86668171709ee3d]"
+  },
+  {
+    "hashId": "c_ballesta|c_caballero|c_cohete|c_esqueletos|c_magodehielo|c_tornado|c_torretesla|c_tronco",
+    "id": "33883c4af93dadcb6482158ec6002d8a8c8c535c9ed463a4a9e544c5b788a030",
+    "cartasIds": [
+      "c_ballesta",
+      "c_caballero",
+      "c_cohete",
+      "c_esqueletos",
+      "c_magodehielo",
+      "c_tornado",
+      "c_torretesla",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/ice-wizard-hero,knight-ev1,rocket,skeletons,tesla-ev1,the-log,tornado,x-bow",
+    "variantesFuente": [
+      "ice-wizard-hero",
+      "knight-ev1",
+      "rocket",
+      "skeletons",
+      "tesla-ev1",
+      "the-log",
+      "tornado",
+      "x-bow"
+    ],
+    "nombre": "c_ballesta + c_caballero [33883c4af93dadcb6482158ec6002d8a8c8c535c9ed463a4a9e544c5b788a030]"
+  },
+  {
+    "hashId": "c_bandidalider|c_barbarosdeelite|c_barrildebarbaro|c_boladenieve|c_hielo|c_horno|c_montapuercos|c_verdugo",
+    "id": "0620e341c48d71fb19e530a7de1bdb3d95634491d83b34f8cf4e089dc02708c9",
+    "cartasIds": [
+      "c_bandidalider",
+      "c_barbarosdeelite",
+      "c_barrildebarbaro",
+      "c_boladenieve",
+      "c_hielo",
+      "c_horno",
+      "c_montapuercos",
+      "c_verdugo"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,boss-bandit,elite-barbarians-ev1,executioner,freeze,furnace,giant-snowball-ev1,hog-rider",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "boss-bandit",
+      "elite-barbarians-ev1",
+      "executioner",
+      "freeze",
+      "furnace",
+      "giant-snowball-ev1",
+      "hog-rider"
+    ],
+    "nombre": "c_bandidalider + c_barbarosdeelite [0620e341c48d71fb19e530a7de1bdb3d95634491d83b34f8cf4e089dc02708c9]"
+  },
+  {
+    "hashId": "c_bandidalider|c_barbarosdeelite|c_descarga|c_hielo|c_hordadeesbirros|c_montapuercos|c_ronin|c_verdugo",
+    "id": "983fa74a16b050973e32748eeb749fb456cd587f103e55ee43a0e33090393260",
+    "cartasIds": [
+      "c_bandidalider",
+      "c_barbarosdeelite",
+      "c_descarga",
+      "c_hielo",
+      "c_hordadeesbirros",
+      "c_montapuercos",
+      "c_ronin",
+      "c_verdugo"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/boss-bandit,elite-barbarians-ev1,executioner,freeze,hog-rider,minion-horde-ev1,ronin,zap",
+    "variantesFuente": [
+      "boss-bandit",
+      "elite-barbarians-ev1",
+      "executioner",
+      "freeze",
+      "hog-rider",
+      "minion-horde-ev1",
+      "ronin",
+      "zap"
+    ],
+    "nombre": "c_bandidalider + c_barbarosdeelite [983fa74a16b050973e32748eeb749fb456cd587f103e55ee43a0e33090393260]"
+  },
+  {
+    "hashId": "c_bandidalider|c_boladenieve|c_enredadera|c_fantasmareal|c_horno|c_montacarneros|c_ronin|c_verdugo",
+    "id": "0e30eb6049ee63260236a0f6d13be917e6638e3e202320ffde7a0da180bdd8d8",
+    "cartasIds": [
+      "c_bandidalider",
+      "c_boladenieve",
+      "c_enredadera",
+      "c_fantasmareal",
+      "c_horno",
+      "c_montacarneros",
+      "c_ronin",
+      "c_verdugo"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/boss-bandit,executioner-ev1,furnace,giant-snowball-ev1,ram-rider,ronin,royal-ghost,vines",
+    "variantesFuente": [
+      "boss-bandit",
+      "executioner-ev1",
+      "furnace",
+      "giant-snowball-ev1",
+      "ram-rider",
+      "ronin",
+      "royal-ghost",
+      "vines"
+    ],
+    "nombre": "c_bandidalider + c_boladenieve [0e30eb6049ee63260236a0f6d13be917e6638e3e202320ffde7a0da180bdd8d8]"
+  },
+  {
+    "hashId": "c_bandida|c_barbarosdeelite|c_descarga|c_espiritusanador|c_fantasmareal|c_golemdehielo|c_recolectordeelixir|c_tresmosqueteras",
+    "id": "9e417bcf43f411226dd2d7a1aca432c066c0626a39814547afb7d1fafc24ac44",
+    "cartasIds": [
+      "c_bandida",
+      "c_barbarosdeelite",
+      "c_descarga",
+      "c_espiritusanador",
+      "c_fantasmareal",
+      "c_golemdehielo",
+      "c_recolectordeelixir",
+      "c_tresmosqueteras"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bandit,elite-barbarians-ev1,elixir-collector,heal-spirit,ice-golem-hero,royal-ghost-ev1,three-musketeers,zap",
+    "variantesFuente": [
+      "bandit",
+      "elite-barbarians-ev1",
+      "elixir-collector",
+      "heal-spirit",
+      "ice-golem-hero",
+      "royal-ghost-ev1",
+      "three-musketeers",
+      "zap"
+    ],
+    "nombre": "c_bandida + c_barbarosdeelite [9e417bcf43f411226dd2d7a1aca432c066c0626a39814547afb7d1fafc24ac44]"
+  },
+  {
+    "hashId": "c_bandida|c_barrildeduendes|c_boladenieve|c_canonconruedas|c_cohete|c_pillos|c_princesa|c_principeoscuro",
+    "id": "f1a1396738ac2e7c478576b0339dad1d4d6cce0475877dcaa41729ab72237dcd",
+    "cartasIds": [
+      "c_bandida",
+      "c_barrildeduendes",
+      "c_boladenieve",
+      "c_canonconruedas",
+      "c_cohete",
+      "c_pillos",
+      "c_princesa",
+      "c_principeoscuro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bandit,cannon-cart,dark-prince-hero,giant-snowball-ev1,goblin-barrel-ev1,princess,rascals,rocket",
+    "variantesFuente": [
+      "bandit",
+      "cannon-cart",
+      "dark-prince-hero",
+      "giant-snowball-ev1",
+      "goblin-barrel-ev1",
+      "princess",
+      "rascals",
+      "rocket"
+    ],
+    "nombre": "c_bandida + c_barrildeduendes [f1a1396738ac2e7c478576b0339dad1d4d6cce0475877dcaa41729ab72237dcd]"
+  },
+  {
+    "hashId": "c_bandida|c_boladefuego|c_carnerodebatalla|c_descarga|c_esbirros|c_fantasmareal|c_magoelectrico|c_pekka",
+    "id": "bd64bbbd1cc84f4c9fa14d51fc1e504dd4694504e634385f08c40396d4e143dc",
+    "cartasIds": [
+      "c_bandida",
+      "c_boladefuego",
+      "c_carnerodebatalla",
+      "c_descarga",
+      "c_esbirros",
+      "c_fantasmareal",
+      "c_magoelectrico",
+      "c_pekka"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bandit,battle-ram-ev1,electro-wizard-hero,fireball,minions,pekka,royal-ghost-ev1,zap",
+    "variantesFuente": [
+      "bandit",
+      "battle-ram-ev1",
+      "electro-wizard-hero",
+      "fireball",
+      "minions",
+      "pekka",
+      "royal-ghost-ev1",
+      "zap"
+    ],
+    "nombre": "c_bandida + c_boladefuego [bd64bbbd1cc84f4c9fa14d51fc1e504dd4694504e634385f08c40396d4e143dc]"
+  },
+  {
+    "hashId": "c_bandida|c_boladefuego|c_carnerodebatalla|c_descarga|c_fantasmareal|c_horno|c_magoelectrico|c_pekka",
+    "id": "2f01a1058815a813d101c8985c8b445f49ba9e954e854d429c963c0a07f8a1a2",
+    "cartasIds": [
+      "c_bandida",
+      "c_boladefuego",
+      "c_carnerodebatalla",
+      "c_descarga",
+      "c_fantasmareal",
+      "c_horno",
+      "c_magoelectrico",
+      "c_pekka"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bandit,battle-ram-ev1,electro-wizard-hero,fireball,furnace,pekka,royal-ghost,zap-ev1",
+    "variantesFuente": [
+      "bandit",
+      "battle-ram-ev1",
+      "electro-wizard-hero",
+      "fireball",
+      "furnace",
+      "pekka",
+      "royal-ghost",
+      "zap-ev1"
+    ],
+    "nombre": "c_bandida + c_boladefuego [2f01a1058815a813d101c8985c8b445f49ba9e954e854d429c963c0a07f8a1a2]"
+  },
+  {
+    "hashId": "c_bandida|c_brujamadre|c_carnerodebatalla|c_espiritusanador|c_esqueletogigante|c_flechas|c_lenador|c_magoelectrico",
+    "id": "7285073ae45bbe9b4aa5f5c74bcfb815a70c8543710b60695f8d06edfcb791e8",
+    "cartasIds": [
+      "c_bandida",
+      "c_brujamadre",
+      "c_carnerodebatalla",
+      "c_espiritusanador",
+      "c_esqueletogigante",
+      "c_flechas",
+      "c_lenador",
+      "c_magoelectrico"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bandit,battle-ram-ev1,electro-wizard-hero,giant-skeleton,heal-spirit,lumberjack-ev1,mother-witch",
+    "variantesFuente": [
+      "arrows",
+      "bandit",
+      "battle-ram-ev1",
+      "electro-wizard-hero",
+      "giant-skeleton",
+      "heal-spirit",
+      "lumberjack-ev1",
+      "mother-witch"
+    ],
+    "nombre": "c_bandida + c_brujamadre [7285073ae45bbe9b4aa5f5c74bcfb815a70c8543710b60695f8d06edfcb791e8]"
+  },
+  {
+    "hashId": "c_bandida|c_carnerodebatalla|c_espiritusanador|c_esqueletogigante|c_fantasmareal|c_flechas|c_horno|c_magoelectrico",
+    "id": "97f879cb44014bf73a8cfb8d570b31d9bffd3da47e0df11af9f69e19c3b866ac",
+    "cartasIds": [
+      "c_bandida",
+      "c_carnerodebatalla",
+      "c_espiritusanador",
+      "c_esqueletogigante",
+      "c_fantasmareal",
+      "c_flechas",
+      "c_horno",
+      "c_magoelectrico"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bandit,battle-ram-ev1,electro-wizard-hero,furnace,giant-skeleton,heal-spirit,royal-ghost-ev1",
+    "variantesFuente": [
+      "arrows",
+      "bandit",
+      "battle-ram-ev1",
+      "electro-wizard-hero",
+      "furnace",
+      "giant-skeleton",
+      "heal-spirit",
+      "royal-ghost-ev1"
+    ],
+    "nombre": "c_bandida + c_carnerodebatalla [97f879cb44014bf73a8cfb8d570b31d9bffd3da47e0df11af9f69e19c3b866ac]"
+  },
+  {
+    "hashId": "c_bandida|c_carnerodebatalla|c_espiritusanador|c_esqueletogigante|c_flechas|c_horno|c_lenador|c_magoelectrico",
+    "id": "6dbc0c53175fc752cc80a0b38ce02c88b88dc6cb3232f6b52db15bf3cb6fe081",
+    "cartasIds": [
+      "c_bandida",
+      "c_carnerodebatalla",
+      "c_espiritusanador",
+      "c_esqueletogigante",
+      "c_flechas",
+      "c_horno",
+      "c_lenador",
+      "c_magoelectrico"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bandit,battle-ram-ev1,electro-wizard-hero,furnace,giant-skeleton,heal-spirit,lumberjack-ev1",
+    "variantesFuente": [
+      "arrows",
+      "bandit",
+      "battle-ram-ev1",
+      "electro-wizard-hero",
+      "furnace",
+      "giant-skeleton",
+      "heal-spirit",
+      "lumberjack-ev1"
+    ],
+    "nombre": "c_bandida + c_carnerodebatalla [6dbc0c53175fc752cc80a0b38ce02c88b88dc6cb3232f6b52db15bf3cb6fe081]"
+  },
+  {
+    "hashId": "c_bandida|c_descarga|c_emperatrizespiritual|c_fantasmareal|c_magodehielo|c_megacaballero|c_montacarneros|c_veneno",
+    "id": "b5c8216963e028b960b6458ab9e03da1b037ce5317212303c493497d17d6c494",
+    "cartasIds": [
+      "c_bandida",
+      "c_descarga",
+      "c_emperatrizespiritual",
+      "c_fantasmareal",
+      "c_magodehielo",
+      "c_megacaballero",
+      "c_montacarneros",
+      "c_veneno"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bandit,ice-wizard-hero,mega-knight-ev1,poison,ram-rider,royal-ghost-ev1,spirit-empress,zap",
+    "variantesFuente": [
+      "bandit",
+      "ice-wizard-hero",
+      "mega-knight-ev1",
+      "poison",
+      "ram-rider",
+      "royal-ghost-ev1",
+      "spirit-empress",
+      "zap"
+    ],
+    "nombre": "c_bandida + c_descarga [b5c8216963e028b960b6458ab9e03da1b037ce5317212303c493497d17d6c494]"
+  },
+  {
+    "hashId": "c_bandida|c_descarga|c_esbirros|c_megacaballero|c_minero|c_principe|c_reinaarquera|c_rompemuros",
+    "id": "f9476fb93ca360d130d64f4e83ac36a62dc23905b9113c7432afa7ca90cdf0fb",
+    "cartasIds": [
+      "c_bandida",
+      "c_descarga",
+      "c_esbirros",
+      "c_megacaballero",
+      "c_minero",
+      "c_principe",
+      "c_reinaarquera",
+      "c_rompemuros"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archer-queen,bandit,mega-knight-ev1,miner,minions,prince,wall-breakers-ev1,zap",
+    "variantesFuente": [
+      "archer-queen",
+      "bandit",
+      "mega-knight-ev1",
+      "miner",
+      "minions",
+      "prince",
+      "wall-breakers-ev1",
+      "zap"
+    ],
+    "nombre": "c_bandida + c_descarga [f9476fb93ca360d130d64f4e83ac36a62dc23905b9113c7432afa7ca90cdf0fb]"
+  },
+  {
+    "hashId": "c_bandida|c_descarga|c_flechas|c_megacaballero|c_murcielagos|c_principe|c_reinaarquera|c_rompemuros",
+    "id": "337a42e0e9e220a09057f3723635869de262f063ce25d71a8d125767dc946baa",
+    "cartasIds": [
+      "c_bandida",
+      "c_descarga",
+      "c_flechas",
+      "c_megacaballero",
+      "c_murcielagos",
+      "c_principe",
+      "c_reinaarquera",
+      "c_rompemuros"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archer-queen,arrows,bandit,bats,mega-knight-ev1,prince,wall-breakers-ev1,zap",
+    "variantesFuente": [
+      "archer-queen",
+      "arrows",
+      "bandit",
+      "bats",
+      "mega-knight-ev1",
+      "prince",
+      "wall-breakers-ev1",
+      "zap"
+    ],
+    "nombre": "c_bandida + c_descarga [337a42e0e9e220a09057f3723635869de262f063ce25d71a8d125767dc946baa]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_barrildebarbaro|c_berserker|c_canonconruedas|c_descarga|c_golem|c_horno|c_magoelectrico",
+    "id": "729db49611f81c72f0c67b2a19f452f2166ef4a6ac42ca017f4dd1740f045f7f",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_barrildebarbaro",
+      "c_berserker",
+      "c_canonconruedas",
+      "c_descarga",
+      "c_golem",
+      "c_horno",
+      "c_magoelectrico"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,berserker,cannon-cart,electro-wizard-hero,elite-barbarians-ev1,furnace,golem,zap-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "berserker",
+      "cannon-cart",
+      "electro-wizard-hero",
+      "elite-barbarians-ev1",
+      "furnace",
+      "golem",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbarosdeelite + c_barrildebarbaro [729db49611f81c72f0c67b2a19f452f2166ef4a6ac42ca017f4dd1740f045f7f]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_barrildebarbaro|c_berserker|c_dragonelectrico|c_dragonesesqueleto|c_golem|c_recolectordeelixir|c_tornado",
+    "id": "aa05c6471273a41032b5d55e33609836f7419ba25f9d29aa85ab4c01269723d6",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_barrildebarbaro",
+      "c_berserker",
+      "c_dragonelectrico",
+      "c_dragonesesqueleto",
+      "c_golem",
+      "c_recolectordeelixir",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,berserker-hero,electro-dragon-ev1,elite-barbarians-ev1,elixir-collector,golem,skeleton-dragons,tornado",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "berserker-hero",
+      "electro-dragon-ev1",
+      "elite-barbarians-ev1",
+      "elixir-collector",
+      "golem",
+      "skeleton-dragons",
+      "tornado"
+    ],
+    "nombre": "c_barbarosdeelite + c_barrildebarbaro [aa05c6471273a41032b5d55e33609836f7419ba25f9d29aa85ab4c01269723d6]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_barrildebarbaro|c_bruja|c_dragonesesqueleto|c_enredadera|c_golem|c_minipekka|c_recolectordeelixir",
+    "id": "542c3ef6e506dc9cc45845f1c4b21fe1705abe3393eb94dcf42c358ba7e0f4ad",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_barrildebarbaro",
+      "c_bruja",
+      "c_dragonesesqueleto",
+      "c_enredadera",
+      "c_golem",
+      "c_minipekka",
+      "c_recolectordeelixir"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,elite-barbarians-ev1,elixir-collector,golem,mini-pekka-hero,skeleton-dragons,vines,witch-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "elite-barbarians-ev1",
+      "elixir-collector",
+      "golem",
+      "mini-pekka-hero",
+      "skeleton-dragons",
+      "vines",
+      "witch-ev1"
+    ],
+    "nombre": "c_barbarosdeelite + c_barrildebarbaro [542c3ef6e506dc9cc45845f1c4b21fe1705abe3393eb94dcf42c358ba7e0f4ad]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_bebedragon|c_bombardero|c_brujanocturna|c_descarga|c_flechas|c_golem|c_minipekka",
+    "id": "a2ed70e31b5f9d830e478e7087b591b198028fd3fa150866eb6eb2d2022053be",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_bebedragon",
+      "c_bombardero",
+      "c_brujanocturna",
+      "c_descarga",
+      "c_flechas",
+      "c_golem",
+      "c_minipekka"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,baby-dragon-ev1,bomber,elite-barbarians-ev1,golem,mini-pekka-hero,night-witch,zap",
+    "variantesFuente": [
+      "arrows",
+      "baby-dragon-ev1",
+      "bomber",
+      "elite-barbarians-ev1",
+      "golem",
+      "mini-pekka-hero",
+      "night-witch",
+      "zap"
+    ],
+    "nombre": "c_barbarosdeelite + c_bebedragon [a2ed70e31b5f9d830e478e7087b591b198028fd3fa150866eb6eb2d2022053be]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_boladefuego|c_descarga|c_furia|c_gigante|c_magoelectrico|c_megaesbirro|c_principeoscuro",
+    "id": "f622dbc5a4224c46d67b0af1ef1bdc8a8ded72fa9716fecc3a345ebd7faac09d",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_boladefuego",
+      "c_descarga",
+      "c_furia",
+      "c_gigante",
+      "c_magoelectrico",
+      "c_megaesbirro",
+      "c_principeoscuro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dark-prince,electro-wizard,elite-barbarians-ev1,fireball,giant-hero,mega-minion,rage,zap-ev1",
+    "variantesFuente": [
+      "dark-prince",
+      "electro-wizard",
+      "elite-barbarians-ev1",
+      "fireball",
+      "giant-hero",
+      "mega-minion",
+      "rage",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbarosdeelite + c_boladefuego [f622dbc5a4224c46d67b0af1ef1bdc8a8ded72fa9716fecc3a345ebd7faac09d]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_bombardero|c_brujanocturna|c_descarga|c_fenix|c_flechas|c_golem|c_megaesbirro",
+    "id": "4556f4d5bfb9892fc3cca3c97d2700be349198f472fa5dd12264fe7c24800eee",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_bombardero",
+      "c_brujanocturna",
+      "c_descarga",
+      "c_fenix",
+      "c_flechas",
+      "c_golem",
+      "c_megaesbirro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bomber,elite-barbarians-ev1,golem,mega-minion-hero,night-witch,phoenix,zap-ev1",
+    "variantesFuente": [
+      "arrows",
+      "bomber",
+      "elite-barbarians-ev1",
+      "golem",
+      "mega-minion-hero",
+      "night-witch",
+      "phoenix",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbarosdeelite + c_bombardero [4556f4d5bfb9892fc3cca3c97d2700be349198f472fa5dd12264fe7c24800eee]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_bombardero|c_brujanocturna|c_descarga|c_fenix|c_flechas|c_golem|c_minipekka",
+    "id": "0934a1c76a349423ac0d33de6b069c22093879fa42b7fddefd23ddd49110dbcf",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_bombardero",
+      "c_brujanocturna",
+      "c_descarga",
+      "c_fenix",
+      "c_flechas",
+      "c_golem",
+      "c_minipekka"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bomber,elite-barbarians-ev1,golem,mini-pekka-hero,night-witch,phoenix,zap-ev1",
+    "variantesFuente": [
+      "arrows",
+      "bomber",
+      "elite-barbarians-ev1",
+      "golem",
+      "mini-pekka-hero",
+      "night-witch",
+      "phoenix",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbarosdeelite + c_bombardero [0934a1c76a349423ac0d33de6b069c22093879fa42b7fddefd23ddd49110dbcf]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_brujamadre|c_chispitas|c_descarga|c_flechas|c_gigante|c_megaesbirro|c_principeoscuro",
+    "id": "468172ab7046665ac1e71d8dfd701ff8cbfc947ddfd87f20d83cdad9c50bfb88",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_brujamadre",
+      "c_chispitas",
+      "c_descarga",
+      "c_flechas",
+      "c_gigante",
+      "c_megaesbirro",
+      "c_principeoscuro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,dark-prince,elite-barbarians-ev1,giant,mega-minion-hero,mother-witch,sparky,zap-ev1",
+    "variantesFuente": [
+      "arrows",
+      "dark-prince",
+      "elite-barbarians-ev1",
+      "giant",
+      "mega-minion-hero",
+      "mother-witch",
+      "sparky",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbarosdeelite + c_brujamadre [468172ab7046665ac1e71d8dfd701ff8cbfc947ddfd87f20d83cdad9c50bfb88]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_bruja|c_descarga|c_duendes|c_esbirros|c_horno|c_maldicionduende|c_minero",
+    "id": "00076b02e23f68ba454c68c3a18f9fb3114aed83af39436257a50661c91224f0",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_bruja",
+      "c_descarga",
+      "c_duendes",
+      "c_esbirros",
+      "c_horno",
+      "c_maldicionduende",
+      "c_minero"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/elite-barbarians-ev1,furnace,goblin-curse,goblins-hero,miner,minions,witch-ev1,zap",
+    "variantesFuente": [
+      "elite-barbarians-ev1",
+      "furnace",
+      "goblin-curse",
+      "goblins-hero",
+      "miner",
+      "minions",
+      "witch-ev1",
+      "zap"
+    ],
+    "nombre": "c_barbarosdeelite + c_bruja [00076b02e23f68ba454c68c3a18f9fb3114aed83af39436257a50661c91224f0]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_caballero|c_espiritusanador|c_fantasmareal|c_furia|c_pescador|c_recolectordeelixir|c_tresmosqueteras",
+    "id": "1d89ec96dc20c66fb7b79f10d41bcf4ff21e3a3bdcb647323988e00545cb5d48",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_caballero",
+      "c_espiritusanador",
+      "c_fantasmareal",
+      "c_furia",
+      "c_pescador",
+      "c_recolectordeelixir",
+      "c_tresmosqueteras"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/elite-barbarians-ev1,elixir-collector,fisherman,heal-spirit,knight-ev1,rage,royal-ghost,three-musketeers",
+    "variantesFuente": [
+      "elite-barbarians-ev1",
+      "elixir-collector",
+      "fisherman",
+      "heal-spirit",
+      "knight-ev1",
+      "rage",
+      "royal-ghost",
+      "three-musketeers"
+    ],
+    "nombre": "c_barbarosdeelite + c_caballero [1d89ec96dc20c66fb7b79f10d41bcf4ff21e3a3bdcb647323988e00545cb5d48]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_chispitas|c_descarga|c_espiritusanador|c_furia|c_gigante|c_magoelectrico|c_minipekka",
+    "id": "90162d86f94ae741fd7ad8e7d53a4aa06722642242a5ed3132ef5a01e594a3b6",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_chispitas",
+      "c_descarga",
+      "c_espiritusanador",
+      "c_furia",
+      "c_gigante",
+      "c_magoelectrico",
+      "c_minipekka"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/electro-wizard,elite-barbarians-ev1,giant-hero,heal-spirit,mini-pekka,rage,sparky,zap-ev1",
+    "variantesFuente": [
+      "electro-wizard",
+      "elite-barbarians-ev1",
+      "giant-hero",
+      "heal-spirit",
+      "mini-pekka",
+      "rage",
+      "sparky",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbarosdeelite + c_chispitas [90162d86f94ae741fd7ad8e7d53a4aa06722642242a5ed3132ef5a01e594a3b6]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_chispitas|c_descarga|c_espiritusanador|c_furia|c_gigante|c_magoelectrico|c_principeoscuro",
+    "id": "64e8751e5aa65ec6793439be5b9845318b6e11b43f56d5dea2f6e2f6942097b1",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_chispitas",
+      "c_descarga",
+      "c_espiritusanador",
+      "c_furia",
+      "c_gigante",
+      "c_magoelectrico",
+      "c_principeoscuro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dark-prince,electro-wizard-hero,elite-barbarians-ev1,giant,heal-spirit,rage,sparky,zap-ev1",
+    "variantesFuente": [
+      "dark-prince",
+      "electro-wizard-hero",
+      "elite-barbarians-ev1",
+      "giant",
+      "heal-spirit",
+      "rage",
+      "sparky",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbarosdeelite + c_chispitas [64e8751e5aa65ec6793439be5b9845318b6e11b43f56d5dea2f6e2f6942097b1]"
+  },
+  {
+    "hashId": "c_barbarosdeelite|c_dragonelectrico|c_espiritusanador|c_golemdeelixir|c_maldicionduende|c_monje|c_recolectordeelixir|c_tornado",
+    "id": "5d2d295e1ab076f08089a66e5e98b4a37181d1edb95fbc74043c90e4e17f9b92",
+    "cartasIds": [
+      "c_barbarosdeelite",
+      "c_dragonelectrico",
+      "c_espiritusanador",
+      "c_golemdeelixir",
+      "c_maldicionduende",
+      "c_monje",
+      "c_recolectordeelixir",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/electro-dragon-ev1,elite-barbarians-ev1,elixir-collector,elixir-golem,goblin-curse,heal-spirit,monk,tornado",
+    "variantesFuente": [
+      "electro-dragon-ev1",
+      "elite-barbarians-ev1",
+      "elixir-collector",
+      "elixir-golem",
+      "goblin-curse",
+      "heal-spirit",
+      "monk",
+      "tornado"
+    ],
+    "nombre": "c_barbarosdeelite + c_dragonelectrico [5d2d295e1ab076f08089a66e5e98b4a37181d1edb95fbc74043c90e4e17f9b92]"
+  },
+  {
+    "hashId": "c_barbaros|c_barrildeduendes|c_cohete|c_esqueletogigante|c_flechas|c_hordadeesbirros|c_mago|c_montapuercos",
+    "id": "1c6db12747595b60d2e4c4600761ac1d1ee964828749f98d46988027060cff01",
+    "cartasIds": [
+      "c_barbaros",
+      "c_barrildeduendes",
+      "c_cohete",
+      "c_esqueletogigante",
+      "c_flechas",
+      "c_hordadeesbirros",
+      "c_mago",
+      "c_montapuercos"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,barbarians,giant-skeleton,goblin-barrel-ev1,hog-rider,minion-horde-ev1,rocket,wizard-hero",
+    "variantesFuente": [
+      "arrows",
+      "barbarians",
+      "giant-skeleton",
+      "goblin-barrel-ev1",
+      "hog-rider",
+      "minion-horde-ev1",
+      "rocket",
+      "wizard-hero"
+    ],
+    "nombre": "c_barbaros + c_barrildeduendes [1c6db12747595b60d2e4c4600761ac1d1ee964828749f98d46988027060cff01]"
+  },
+  {
+    "hashId": "c_barbaros|c_bebedragon|c_boladefuego|c_descarga|c_globobombastico|c_lapida|c_megaesbirro|c_sabuesodelava",
+    "id": "96f76d34d8be0c00376180c1c2ee9390f8966cd6d29e002427792c77334b1ae1",
+    "cartasIds": [
+      "c_barbaros",
+      "c_bebedragon",
+      "c_boladefuego",
+      "c_descarga",
+      "c_globobombastico",
+      "c_lapida",
+      "c_megaesbirro",
+      "c_sabuesodelava"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/baby-dragon-ev1,balloon,barbarians,fireball,lava-hound,mega-minion-hero,tombstone,zap-ev1",
+    "variantesFuente": [
+      "baby-dragon-ev1",
+      "balloon",
+      "barbarians",
+      "fireball",
+      "lava-hound",
+      "mega-minion-hero",
+      "tombstone",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbaros + c_bebedragon [96f76d34d8be0c00376180c1c2ee9390f8966cd6d29e002427792c77334b1ae1]"
+  },
+  {
+    "hashId": "c_barbaros|c_bebedragon|c_electrocutadores|c_flechas|c_golemdeelixir|c_lanzarrocas|c_maquinaduende|c_rayo",
+    "id": "5a58a9e8c2ab8974d04e13bc9047c78a5738ee1b8c84d3046476ff8d71153815",
+    "cartasIds": [
+      "c_barbaros",
+      "c_bebedragon",
+      "c_electrocutadores",
+      "c_flechas",
+      "c_golemdeelixir",
+      "c_lanzarrocas",
+      "c_maquinaduende",
+      "c_rayo"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,baby-dragon-ev1,barbarians-ev1,bowler-hero,elixir-golem,goblin-machine,lightning,zappies",
+    "variantesFuente": [
+      "arrows",
+      "baby-dragon-ev1",
+      "barbarians-ev1",
+      "bowler-hero",
+      "elixir-golem",
+      "goblin-machine",
+      "lightning",
+      "zappies"
+    ],
+    "nombre": "c_barbaros + c_bebedragon [5a58a9e8c2ab8974d04e13bc9047c78a5738ee1b8c84d3046476ff8d71153815]"
+  },
+  {
+    "hashId": "c_barbaros|c_boladefuego|c_descarga|c_dragonesesqueleto|c_esbirrogigante|c_lapida|c_megaesbirro|c_sabuesodelava",
+    "id": "cfb1846f5c2e48a65eec92a9e89f01027d6fdc849ff94783776bf42a3497396e",
+    "cartasIds": [
+      "c_barbaros",
+      "c_boladefuego",
+      "c_descarga",
+      "c_dragonesesqueleto",
+      "c_esbirrogigante",
+      "c_lapida",
+      "c_megaesbirro",
+      "c_sabuesodelava"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarians-ev1,fireball,lava-hound,mega-minion-hero,minion-giant,skeleton-dragons,tombstone,zap-ev1",
+    "variantesFuente": [
+      "barbarians-ev1",
+      "fireball",
+      "lava-hound",
+      "mega-minion-hero",
+      "minion-giant",
+      "skeleton-dragons",
+      "tombstone",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbaros + c_boladefuego [cfb1846f5c2e48a65eec92a9e89f01027d6fdc849ff94783776bf42a3497396e]"
+  },
+  {
+    "hashId": "c_barbaros|c_boladefuego|c_descarga|c_dragonesesqueleto|c_globobombastico|c_lapida|c_megaesbirro|c_sabuesodelava",
+    "id": "a505cfb9a34329f86d2dce29b9dc80cb22f88d022d9c681e3629df8207c435ac",
+    "cartasIds": [
+      "c_barbaros",
+      "c_boladefuego",
+      "c_descarga",
+      "c_dragonesesqueleto",
+      "c_globobombastico",
+      "c_lapida",
+      "c_megaesbirro",
+      "c_sabuesodelava"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/balloon,barbarians-ev1,fireball,lava-hound,mega-minion-hero,skeleton-dragons,tombstone,zap-ev1",
+    "variantesFuente": [
+      "balloon",
+      "barbarians-ev1",
+      "fireball",
+      "lava-hound",
+      "mega-minion-hero",
+      "skeleton-dragons",
+      "tombstone",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbaros + c_boladefuego [a505cfb9a34329f86d2dce29b9dc80cb22f88d022d9c681e3629df8207c435ac]"
+  },
+  {
+    "hashId": "c_barbaros|c_descarga|c_dragonesesqueleto|c_dragoninfernal|c_flechas|c_globobombastico|c_minero|c_sabuesodelava",
+    "id": "a35c71e5c944c3e32c562060db0506d6ff1d7f357232421008dfa3c8a0fae5e5",
+    "cartasIds": [
+      "c_barbaros",
+      "c_descarga",
+      "c_dragonesesqueleto",
+      "c_dragoninfernal",
+      "c_flechas",
+      "c_globobombastico",
+      "c_minero",
+      "c_sabuesodelava"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,balloon-hero,barbarians,inferno-dragon-ev1,lava-hound,miner,skeleton-dragons,zap-ev1",
+    "variantesFuente": [
+      "arrows",
+      "balloon-hero",
+      "barbarians",
+      "inferno-dragon-ev1",
+      "lava-hound",
+      "miner",
+      "skeleton-dragons",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbaros + c_descarga [a35c71e5c944c3e32c562060db0506d6ff1d7f357232421008dfa3c8a0fae5e5]"
+  },
+  {
+    "hashId": "c_barbaros|c_descarga|c_fenix|c_lapida|c_maldicionduende|c_maquinavoladora|c_minero|c_sabuesodelava",
+    "id": "8427e0a44dfd9214ecf0983aa3a671b170b39fcda2e6bc7dfd4cb57be8cee340",
+    "cartasIds": [
+      "c_barbaros",
+      "c_descarga",
+      "c_fenix",
+      "c_lapida",
+      "c_maldicionduende",
+      "c_maquinavoladora",
+      "c_minero",
+      "c_sabuesodelava"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarians-ev1,flying-machine,goblin-curse,lava-hound,miner,phoenix,tombstone-hero,zap-ev1",
+    "variantesFuente": [
+      "barbarians-ev1",
+      "flying-machine",
+      "goblin-curse",
+      "lava-hound",
+      "miner",
+      "phoenix",
+      "tombstone-hero",
+      "zap-ev1"
+    ],
+    "nombre": "c_barbaros + c_descarga [8427e0a44dfd9214ecf0983aa3a671b170b39fcda2e6bc7dfd4cb57be8cee340]"
+  },
+  {
+    "hashId": "c_barbaros|c_esqueletogigante|c_guardias|c_hordadeesbirros|c_lanzafuegos|c_montapuercos|c_rayo|c_tronco",
+    "id": "eafbc9ce186f915a4569e6947848cf4476973610ba471d42237dbbd1d9ffe1ab",
+    "cartasIds": [
+      "c_barbaros",
+      "c_esqueletogigante",
+      "c_guardias",
+      "c_hordadeesbirros",
+      "c_lanzafuegos",
+      "c_montapuercos",
+      "c_rayo",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarians,firecracker-ev1,giant-skeleton,guards,hog-rider,lightning,minion-horde-ev1,the-log",
+    "variantesFuente": [
+      "barbarians",
+      "firecracker-ev1",
+      "giant-skeleton",
+      "guards",
+      "hog-rider",
+      "lightning",
+      "minion-horde-ev1",
+      "the-log"
+    ],
+    "nombre": "c_barbaros + c_esqueletogigante [eafbc9ce186f915a4569e6947848cf4476973610ba471d42237dbbd1d9ffe1ab]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_barrildeesqueletos|c_boladefuego|c_caballero|c_dragonesesqueleto|c_esqueletos|c_mortero|c_mosquetera",
+    "id": "f22dbca5a01aa6ea02a1153f4cf20480ba254ca794df698d4dd1d989cf761f04",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_barrildeesqueletos",
+      "c_boladefuego",
+      "c_caballero",
+      "c_dragonesesqueleto",
+      "c_esqueletos",
+      "c_mortero",
+      "c_mosquetera"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,fireball,knight,mortar-ev1,musketeer-hero,skeleton-barrel-ev1,skeleton-dragons,skeletons",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "fireball",
+      "knight",
+      "mortar-ev1",
+      "musketeer-hero",
+      "skeleton-barrel-ev1",
+      "skeleton-dragons",
+      "skeletons"
+    ],
+    "nombre": "c_barrildebarbaro + c_barrildeesqueletos [f22dbca5a01aa6ea02a1153f4cf20480ba254ca794df698d4dd1d989cf761f04]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_barrildeesqueletos|c_boladefuego|c_canonconruedas|c_duendes|c_esbirros|c_mortero|c_pillos",
+    "id": "f702c44d2ef9799fad4076fa52b2c05323432b7dd526989415f254133625c93d",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_barrildeesqueletos",
+      "c_boladefuego",
+      "c_canonconruedas",
+      "c_duendes",
+      "c_esbirros",
+      "c_mortero",
+      "c_pillos"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,cannon-cart,fireball,goblins-hero,minions,mortar-ev1,rascals,skeleton-barrel-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "cannon-cart",
+      "fireball",
+      "goblins-hero",
+      "minions",
+      "mortar-ev1",
+      "rascals",
+      "skeleton-barrel-ev1"
+    ],
+    "nombre": "c_barrildebarbaro + c_barrildeesqueletos [f702c44d2ef9799fad4076fa52b2c05323432b7dd526989415f254133625c93d]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_barrildeesqueletos|c_boladefuego|c_canonconruedas|c_magodehielo|c_mortero|c_pandilladeduendes|c_pillos",
+    "id": "ade74768b9a80f179251c52885a24d1d8eadc9154fdbb2cb8e042b401d47268f",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_barrildeesqueletos",
+      "c_boladefuego",
+      "c_canonconruedas",
+      "c_magodehielo",
+      "c_mortero",
+      "c_pandilladeduendes",
+      "c_pillos"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,cannon-cart,fireball,goblin-gang,ice-wizard-hero,mortar-ev1,rascals,skeleton-barrel-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "cannon-cart",
+      "fireball",
+      "goblin-gang",
+      "ice-wizard-hero",
+      "mortar-ev1",
+      "rascals",
+      "skeleton-barrel-ev1"
+    ],
+    "nombre": "c_barrildebarbaro + c_barrildeesqueletos [ade74768b9a80f179251c52885a24d1d8eadc9154fdbb2cb8e042b401d47268f]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_bebedragon|c_berserker|c_chozadeduendes|c_giganteelectrico|c_lanzarrocas|c_rayo|c_tornado",
+    "id": "6678f3292b0cc9ebd2c435a78c0dcc7364fb258dc5958fdeda51971dd17113fd",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_bebedragon",
+      "c_berserker",
+      "c_chozadeduendes",
+      "c_giganteelectrico",
+      "c_lanzarrocas",
+      "c_rayo",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/baby-dragon-ev1,barbarian-barrel,berserker,bowler-hero,electro-giant-ev1,goblin-hut,lightning,tornado",
+    "variantesFuente": [
+      "baby-dragon-ev1",
+      "barbarian-barrel",
+      "berserker",
+      "bowler-hero",
+      "electro-giant-ev1",
+      "goblin-hut",
+      "lightning",
+      "tornado"
+    ],
+    "nombre": "c_barrildebarbaro + c_bebedragon [6678f3292b0cc9ebd2c435a78c0dcc7364fb258dc5958fdeda51971dd17113fd]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_bebedragon|c_caballero|c_cementerio|c_lapida|c_magodehielo|c_tornado|c_veneno",
+    "id": "5b63e1a5651a27de73aebc831670d8a607c360788f1d9ecfbbcf02e445ac4b9f",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_bebedragon",
+      "c_caballero",
+      "c_cementerio",
+      "c_lapida",
+      "c_magodehielo",
+      "c_tornado",
+      "c_veneno"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/baby-dragon,barbarian-barrel,graveyard,ice-wizard-hero,knight-ev1,poison,tombstone-hero,tornado",
+    "variantesFuente": [
+      "baby-dragon",
+      "barbarian-barrel",
+      "graveyard",
+      "ice-wizard-hero",
+      "knight-ev1",
+      "poison",
+      "tombstone-hero",
+      "tornado"
+    ],
+    "nombre": "c_barrildebarbaro + c_bebedragon [5b63e1a5651a27de73aebc831670d8a607c360788f1d9ecfbbcf02e445ac4b9f]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_bebedragon|c_caballero|c_giganteelectrico|c_jauladelforzudo|c_lanzarrocas|c_rayo|c_tornado",
+    "id": "c7f6aa85a01f9b86b3e968d88d2da268f2f39f502274613add884019374a5f65",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_bebedragon",
+      "c_caballero",
+      "c_giganteelectrico",
+      "c_jauladelforzudo",
+      "c_lanzarrocas",
+      "c_rayo",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/baby-dragon-ev1,barbarian-barrel,bowler-hero,electro-giant-ev1,goblin-cage,knight,lightning,tornado",
+    "variantesFuente": [
+      "baby-dragon-ev1",
+      "barbarian-barrel",
+      "bowler-hero",
+      "electro-giant-ev1",
+      "goblin-cage",
+      "knight",
+      "lightning",
+      "tornado"
+    ],
+    "nombre": "c_barrildebarbaro + c_bebedragon [c7f6aa85a01f9b86b3e968d88d2da268f2f39f502274613add884019374a5f65]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_bebedragon|c_chozadeduendes|c_ejercitodeesqueletos|c_giganteelectrico|c_lanzarrocas|c_rayo|c_tornado",
+    "id": "1efb7535894a5445614a49f0b0604df9ab6b5c86730798b0c9a25c5ac66f4dc4",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_bebedragon",
+      "c_chozadeduendes",
+      "c_ejercitodeesqueletos",
+      "c_giganteelectrico",
+      "c_lanzarrocas",
+      "c_rayo",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/baby-dragon,barbarian-barrel,bowler-hero,electro-giant-ev1,goblin-hut,lightning,skeleton-army-ev1,tornado",
+    "variantesFuente": [
+      "baby-dragon",
+      "barbarian-barrel",
+      "bowler-hero",
+      "electro-giant-ev1",
+      "goblin-hut",
+      "lightning",
+      "skeleton-army-ev1",
+      "tornado"
+    ],
+    "nombre": "c_barrildebarbaro + c_bebedragon [1efb7535894a5445614a49f0b0604df9ab6b5c86730798b0c9a25c5ac66f4dc4]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_bebedragon|c_chozadeduendes|c_giganteelectrico|c_lanzarrocas|c_magoelectrico|c_rayo|c_tornado",
+    "id": "0fe4850bd52d6c2bc7b746914b050c34519af07ef7d7c5764699ea82fe7c7195",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_bebedragon",
+      "c_chozadeduendes",
+      "c_giganteelectrico",
+      "c_lanzarrocas",
+      "c_magoelectrico",
+      "c_rayo",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/baby-dragon-ev1,barbarian-barrel,bowler-hero,electro-giant-ev1,electro-wizard,goblin-hut,lightning,tornado",
+    "variantesFuente": [
+      "baby-dragon-ev1",
+      "barbarian-barrel",
+      "bowler-hero",
+      "electro-giant-ev1",
+      "electro-wizard",
+      "goblin-hut",
+      "lightning",
+      "tornado"
+    ],
+    "nombre": "c_barrildebarbaro + c_bebedragon [0fe4850bd52d6c2bc7b746914b050c34519af07ef7d7c5764699ea82fe7c7195]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_bebedragon|c_giganteelectrico|c_jauladelforzudo|c_megaesbirro|c_principeoscuro|c_rayo|c_tornado",
+    "id": "f0ec5a416d86b0c4bc8879b317064d53bb8c0de3414e77eb2c147e80b7fa2225",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_bebedragon",
+      "c_giganteelectrico",
+      "c_jauladelforzudo",
+      "c_megaesbirro",
+      "c_principeoscuro",
+      "c_rayo",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/baby-dragon-ev1,barbarian-barrel,dark-prince,electro-giant-ev1,goblin-cage,lightning,mega-minion-hero,tornado",
+    "variantesFuente": [
+      "baby-dragon-ev1",
+      "barbarian-barrel",
+      "dark-prince",
+      "electro-giant-ev1",
+      "goblin-cage",
+      "lightning",
+      "mega-minion-hero",
+      "tornado"
+    ],
+    "nombre": "c_barrildebarbaro + c_bebedragon [f0ec5a416d86b0c4bc8879b317064d53bb8c0de3414e77eb2c147e80b7fa2225]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_boladefuego|c_brujamadre|c_canonconruedas|c_goblinstein|c_hordadeesbirros|c_mortero|c_pandilladeduendes",
+    "id": "919a3b0b4629ec7a0211422112e8a62912e0c66dec79d12c7a36ea364527a7cc",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_boladefuego",
+      "c_brujamadre",
+      "c_canonconruedas",
+      "c_goblinstein",
+      "c_hordadeesbirros",
+      "c_mortero",
+      "c_pandilladeduendes"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,cannon-cart,fireball,goblin-gang,goblinstein,minion-horde-ev1,mortar-ev1,mother-witch",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "cannon-cart",
+      "fireball",
+      "goblin-gang",
+      "goblinstein",
+      "minion-horde-ev1",
+      "mortar-ev1",
+      "mother-witch"
+    ],
+    "nombre": "c_barrildebarbaro + c_boladefuego [919a3b0b4629ec7a0211422112e8a62912e0c66dec79d12c7a36ea364527a7cc]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_boladefuego|c_brujamadre|c_canonconruedas|c_hordadeesbirros|c_mortero|c_pandilladeduendes|c_valquiria",
+    "id": "bb65fdef893fc0f19ed9c7995e36914c703a77992ff83a34f123640888f0594d",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_boladefuego",
+      "c_brujamadre",
+      "c_canonconruedas",
+      "c_hordadeesbirros",
+      "c_mortero",
+      "c_pandilladeduendes",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,cannon-cart,fireball,goblin-gang,minion-horde-ev1,mortar-ev1,mother-witch,valkyrie-hero",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "cannon-cart",
+      "fireball",
+      "goblin-gang",
+      "minion-horde-ev1",
+      "mortar-ev1",
+      "mother-witch",
+      "valkyrie-hero"
+    ],
+    "nombre": "c_barrildebarbaro + c_boladefuego [bb65fdef893fc0f19ed9c7995e36914c703a77992ff83a34f123640888f0594d]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_boladefuego|c_caballero|c_canon|c_esbirrogigante|c_esqueletos|c_magodehielo|c_murcielagos",
+    "id": "ecec56a7b80b33f851a6f70a80e34739a142f76fc50273bbc6b099383972d3f9",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_boladefuego",
+      "c_caballero",
+      "c_canon",
+      "c_esbirrogigante",
+      "c_esqueletos",
+      "c_magodehielo",
+      "c_murcielagos"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,bats-ev1,cannon-ev1,fireball,ice-wizard-hero,knight,minion-giant,skeletons",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "bats-ev1",
+      "cannon-ev1",
+      "fireball",
+      "ice-wizard-hero",
+      "knight",
+      "minion-giant",
+      "skeletons"
+    ],
+    "nombre": "c_barrildebarbaro + c_boladefuego [ecec56a7b80b33f851a6f70a80e34739a142f76fc50273bbc6b099383972d3f9]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_boladefuego|c_cazador|c_esbirrogigante|c_espirituelectrico|c_esqueletos|c_monje|c_princesa",
+    "id": "c3bc380f5352bf8085bd20472cdf7946de4d9c5b228e2d2d19c4d3853fa867a3",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_boladefuego",
+      "c_cazador",
+      "c_esbirrogigante",
+      "c_espirituelectrico",
+      "c_esqueletos",
+      "c_monje",
+      "c_princesa"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,electro-spirit,fireball,hunter-ev1,minion-giant,monk,princess-ev1,skeletons",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "electro-spirit",
+      "fireball",
+      "hunter-ev1",
+      "minion-giant",
+      "monk",
+      "princess-ev1",
+      "skeletons"
+    ],
+    "nombre": "c_barrildebarbaro + c_boladefuego [c3bc380f5352bf8085bd20472cdf7946de4d9c5b228e2d2d19c4d3853fa867a3]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_boladefuego|c_cazador|c_espirituelectrico|c_esqueletos|c_fantasmareal|c_gigantereal|c_pescador",
+    "id": "c1c4e74d96ea61dea3620d9cf7a1d15e100c588266c66f7fe620fe2cfe13a2ab",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_boladefuego",
+      "c_cazador",
+      "c_espirituelectrico",
+      "c_esqueletos",
+      "c_fantasmareal",
+      "c_gigantereal",
+      "c_pescador"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel-hero,electro-spirit,fireball,fisherman,hunter,royal-ghost-ev1,royal-giant-ev1,skeletons",
+    "variantesFuente": [
+      "barbarian-barrel-hero",
+      "electro-spirit",
+      "fireball",
+      "fisherman",
+      "hunter",
+      "royal-ghost-ev1",
+      "royal-giant-ev1",
+      "skeletons"
+    ],
+    "nombre": "c_barrildebarbaro + c_boladefuego [c1c4e74d96ea61dea3620d9cf7a1d15e100c588266c66f7fe620fe2cfe13a2ab]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_boladefuego|c_descarga|c_dragonesesqueleto|c_emperatrizespiritual|c_jauladelforzudo|c_principeoscuro|c_sabuesodelava",
+    "id": "1ee58678f12312a3407362715093c3894f5e090eee9648846d57d6720b7fd495",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_boladefuego",
+      "c_descarga",
+      "c_dragonesesqueleto",
+      "c_emperatrizespiritual",
+      "c_jauladelforzudo",
+      "c_principeoscuro",
+      "c_sabuesodelava"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,dark-prince-hero,fireball,goblin-cage-ev1,lava-hound,skeleton-dragons,spirit-empress,zap-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "dark-prince-hero",
+      "fireball",
+      "goblin-cage-ev1",
+      "lava-hound",
+      "skeleton-dragons",
+      "spirit-empress",
+      "zap-ev1"
+    ],
+    "nombre": "c_barrildebarbaro + c_boladefuego [1ee58678f12312a3407362715093c3894f5e090eee9648846d57d6720b7fd495]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_brujamadre|c_canonconruedas|c_carnerodebatalla|c_fantasmareal|c_horno|c_magoelectrico|c_ronin",
+    "id": "85ee1ed2b1ac906344755433a860d80bc01f886d65c9efc96ce86a7a91d8e493",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_brujamadre",
+      "c_canonconruedas",
+      "c_carnerodebatalla",
+      "c_fantasmareal",
+      "c_horno",
+      "c_magoelectrico",
+      "c_ronin"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,battle-ram-ev1,cannon-cart,electro-wizard-hero,furnace,mother-witch,ronin,royal-ghost-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "battle-ram-ev1",
+      "cannon-cart",
+      "electro-wizard-hero",
+      "furnace",
+      "mother-witch",
+      "ronin",
+      "royal-ghost-ev1"
+    ],
+    "nombre": "c_barrildebarbaro + c_brujamadre [85ee1ed2b1ac906344755433a860d80bc01f886d65c9efc96ce86a7a91d8e493]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_brujamadre|c_carnerodebatalla|c_electrocutadores|c_enredadera|c_esqueletogigante|c_fantasmareal|c_mago",
+    "id": "f4a784dd7dba071d6a91cf080694ebb6dc9c17f348e3c6b931d7504483f5df31",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_brujamadre",
+      "c_carnerodebatalla",
+      "c_electrocutadores",
+      "c_enredadera",
+      "c_esqueletogigante",
+      "c_fantasmareal",
+      "c_mago"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,battle-ram-ev1,giant-skeleton,mother-witch,royal-ghost-ev1,vines,wizard-hero,zappies",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "battle-ram-ev1",
+      "giant-skeleton",
+      "mother-witch",
+      "royal-ghost-ev1",
+      "vines",
+      "wizard-hero",
+      "zappies"
+    ],
+    "nombre": "c_barrildebarbaro + c_brujamadre [f4a784dd7dba071d6a91cf080694ebb6dc9c17f348e3c6b931d7504483f5df31]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_caballero|c_canon|c_cementerio|c_esqueletos|c_magodehielo|c_murcielagos|c_veneno",
+    "id": "686ad1a0d8fd616385cea82e407244e49909518a06a2fa4ea0908f3092e4419d",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_caballero",
+      "c_canon",
+      "c_cementerio",
+      "c_esqueletos",
+      "c_magodehielo",
+      "c_murcielagos",
+      "c_veneno"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,bats-ev1,cannon-ev1,graveyard,ice-wizard-hero,knight,poison,skeletons",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "bats-ev1",
+      "cannon-ev1",
+      "graveyard",
+      "ice-wizard-hero",
+      "knight",
+      "poison",
+      "skeletons"
+    ],
+    "nombre": "c_barrildebarbaro + c_caballero [686ad1a0d8fd616385cea82e407244e49909518a06a2fa4ea0908f3092e4419d]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_caballero|c_canon|c_esbirrogigante|c_esqueletos|c_magodehielo|c_murcielagos|c_rayo",
+    "id": "1af719dbbc8f3069b237cd8df250eefa41f15734bc82d53be3108023580c30a4",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_caballero",
+      "c_canon",
+      "c_esbirrogigante",
+      "c_esqueletos",
+      "c_magodehielo",
+      "c_murcielagos",
+      "c_rayo"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,bats-ev1,cannon-ev1,ice-wizard-hero,knight,lightning,minion-giant,skeletons",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "bats-ev1",
+      "cannon-ev1",
+      "ice-wizard-hero",
+      "knight",
+      "lightning",
+      "minion-giant",
+      "skeletons"
+    ],
+    "nombre": "c_barrildebarbaro + c_caballero [1af719dbbc8f3069b237cd8df250eefa41f15734bc82d53be3108023580c30a4]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_caballero|c_canon|c_esqueletos|c_fantasmareal|c_magodehielo|c_puercosreales|c_terremoto",
+    "id": "a99fb182c53e6f266d8e93eee6f3a8019f46b7929c1da72dd331c6f2272b8722",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_caballero",
+      "c_canon",
+      "c_esqueletos",
+      "c_fantasmareal",
+      "c_magodehielo",
+      "c_puercosreales",
+      "c_terremoto"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,cannon,earthquake,ice-wizard-hero,knight,royal-ghost-ev1,royal-hogs-ev1,skeletons",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "cannon",
+      "earthquake",
+      "ice-wizard-hero",
+      "knight",
+      "royal-ghost-ev1",
+      "royal-hogs-ev1",
+      "skeletons"
+    ],
+    "nombre": "c_barrildebarbaro + c_caballero [a99fb182c53e6f266d8e93eee6f3a8019f46b7929c1da72dd331c6f2272b8722]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_caballero|c_cementerio|c_chozadeduendes|c_esqueletos|c_horno|c_magodehielo|c_veneno",
+    "id": "eb4c046c4ac10a494d2f1b1c3312f50265ba1c889cfff0a5ec1cf238189f861d",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_caballero",
+      "c_cementerio",
+      "c_chozadeduendes",
+      "c_esqueletos",
+      "c_horno",
+      "c_magodehielo",
+      "c_veneno"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,furnace-ev1,goblin-hut,graveyard,ice-wizard-hero,knight,poison,skeletons-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "furnace-ev1",
+      "goblin-hut",
+      "graveyard",
+      "ice-wizard-hero",
+      "knight",
+      "poison",
+      "skeletons-ev1"
+    ],
+    "nombre": "c_barrildebarbaro + c_caballero [eb4c046c4ac10a494d2f1b1c3312f50265ba1c889cfff0a5ec1cf238189f861d]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_canon|c_espirituelectrico|c_esqueletos|c_granminero|c_lanzafuegos|c_montapuercos|c_terremoto",
+    "id": "62bc8a931b63a147048b12fd6a1f4c5428fddd87e21298acdff3fd9ec12138e4",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_canon",
+      "c_espirituelectrico",
+      "c_esqueletos",
+      "c_granminero",
+      "c_lanzafuegos",
+      "c_montapuercos",
+      "c_terremoto"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,cannon-ev1,earthquake,electro-spirit,firecracker-ev1,hog-rider,mighty-miner,skeletons",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "cannon-ev1",
+      "earthquake",
+      "electro-spirit",
+      "firecracker-ev1",
+      "hog-rider",
+      "mighty-miner",
+      "skeletons"
+    ],
+    "nombre": "c_barrildebarbaro + c_canon [62bc8a931b63a147048b12fd6a1f4c5428fddd87e21298acdff3fd9ec12138e4]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_cementerio|c_chozadeduendes|c_descarga|c_esqueletogigante|c_horno|c_maldicionduende|c_principeoscuro",
+    "id": "21dc4029fb0131f14d0e17da83e340fe77d0d568f753698a72b76f1c36e29f37",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_cementerio",
+      "c_chozadeduendes",
+      "c_descarga",
+      "c_esqueletogigante",
+      "c_horno",
+      "c_maldicionduende",
+      "c_principeoscuro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,dark-prince-hero,furnace-ev1,giant-skeleton,goblin-curse,goblin-hut,graveyard,zap-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "dark-prince-hero",
+      "furnace-ev1",
+      "giant-skeleton",
+      "goblin-curse",
+      "goblin-hut",
+      "graveyard",
+      "zap-ev1"
+    ],
+    "nombre": "c_barrildebarbaro + c_cementerio [21dc4029fb0131f14d0e17da83e340fe77d0d568f753698a72b76f1c36e29f37]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_cementerio|c_esqueletos|c_fenix|c_jauladelforzudo|c_magodehielo|c_valquiria|c_veneno",
+    "id": "d43533e65445ce2c4bfbd1efb19c691ed1d6e135c903850ff789c0c58ae3c319",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_cementerio",
+      "c_esqueletos",
+      "c_fenix",
+      "c_jauladelforzudo",
+      "c_magodehielo",
+      "c_valquiria",
+      "c_veneno"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,goblin-cage-ev1,graveyard,ice-wizard-hero,phoenix,poison,skeletons,valkyrie-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "goblin-cage-ev1",
+      "graveyard",
+      "ice-wizard-hero",
+      "phoenix",
+      "poison",
+      "skeletons",
+      "valkyrie-ev1"
+    ],
+    "nombre": "c_barrildebarbaro + c_cementerio [d43533e65445ce2c4bfbd1efb19c691ed1d6e135c903850ff789c0c58ae3c319]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_descarga|c_dragonelectrico|c_golem|c_lanzarrocas|c_minipekka|c_mosquetera|c_tornado",
+    "id": "be939934557d2db7c131e5d0d541025278858026b019c96d2740474b67fbd62d",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_descarga",
+      "c_dragonelectrico",
+      "c_golem",
+      "c_lanzarrocas",
+      "c_minipekka",
+      "c_mosquetera",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,bowler,electro-dragon-ev1,golem,mini-pekka-hero,musketeer-ev1,tornado,zap",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "bowler",
+      "electro-dragon-ev1",
+      "golem",
+      "mini-pekka-hero",
+      "musketeer-ev1",
+      "tornado",
+      "zap"
+    ],
+    "nombre": "c_barrildebarbaro + c_descarga [be939934557d2db7c131e5d0d541025278858026b019c96d2740474b67fbd62d]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_duendedemolicion|c_electrocutadores|c_flechas|c_jauladelforzudo|c_maquinavoladora|c_puercosreales|c_reclutasreales",
+    "id": "c599b6ca3b3966727fcb3033e5d846f0b3d831d98e75f035fac79c79461e8a1f",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_duendedemolicion",
+      "c_electrocutadores",
+      "c_flechas",
+      "c_jauladelforzudo",
+      "c_maquinavoladora",
+      "c_puercosreales",
+      "c_reclutasreales"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,barbarian-barrel-hero,flying-machine,goblin-cage-ev1,goblin-demolisher,royal-hogs,royal-recruits-ev1,zappies",
+    "variantesFuente": [
+      "arrows",
+      "barbarian-barrel-hero",
+      "flying-machine",
+      "goblin-cage-ev1",
+      "goblin-demolisher",
+      "royal-hogs",
+      "royal-recruits-ev1",
+      "zappies"
+    ],
+    "nombre": "c_barrildebarbaro + c_duendedemolicion [c599b6ca3b3966727fcb3033e5d846f0b3d831d98e75f035fac79c79461e8a1f]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_electrocutadores|c_espirituelectrico|c_flechas|c_jauladelforzudo|c_maquinavoladora|c_puercosreales|c_reclutasreales",
+    "id": "8b0ea664f4e7a815336280b808d406d2bc688ac3ba80f9e8f3ffe7d7a27aa728",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_electrocutadores",
+      "c_espirituelectrico",
+      "c_flechas",
+      "c_jauladelforzudo",
+      "c_maquinavoladora",
+      "c_puercosreales",
+      "c_reclutasreales"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,barbarian-barrel-hero,electro-spirit,flying-machine,goblin-cage-ev1,royal-hogs,royal-recruits-ev1,zappies",
+    "variantesFuente": [
+      "arrows",
+      "barbarian-barrel-hero",
+      "electro-spirit",
+      "flying-machine",
+      "goblin-cage-ev1",
+      "royal-hogs",
+      "royal-recruits-ev1",
+      "zappies"
+    ],
+    "nombre": "c_barrildebarbaro + c_electrocutadores [8b0ea664f4e7a815336280b808d406d2bc688ac3ba80f9e8f3ffe7d7a27aa728]"
+  },
+  {
+    "hashId": "c_barrildebarbaro|c_espirituelectrico|c_esqueletos|c_granminero|c_lanzafuegos|c_montapuercos|c_terremoto|c_torretesla",
+    "id": "f990fe7d10c6f228c9b634d502cc1d05e919cee7543a175b169582952c437d50",
+    "cartasIds": [
+      "c_barrildebarbaro",
+      "c_espirituelectrico",
+      "c_esqueletos",
+      "c_granminero",
+      "c_lanzafuegos",
+      "c_montapuercos",
+      "c_terremoto",
+      "c_torretesla"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/barbarian-barrel,earthquake,electro-spirit,firecracker-ev1,hog-rider,mighty-miner,skeletons,tesla-ev1",
+    "variantesFuente": [
+      "barbarian-barrel",
+      "earthquake",
+      "electro-spirit",
+      "firecracker-ev1",
+      "hog-rider",
+      "mighty-miner",
+      "skeletons",
+      "tesla-ev1"
+    ],
+    "nombre": "c_barrildebarbaro + c_espirituelectrico [f990fe7d10c6f228c9b634d502cc1d05e919cee7543a175b169582952c437d50]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_berserker|c_canon|c_duendelanzadardos|c_espirituelectrico|c_pandilladeduendes|c_princesa|c_valquiria",
+    "id": "a8d11abe0a975e8434be505fc9992df8a22c1c39b7b097b2932d0eaec030b2b5",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_berserker",
+      "c_canon",
+      "c_duendelanzadardos",
+      "c_espirituelectrico",
+      "c_pandilladeduendes",
+      "c_princesa",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/berserker,cannon,dart-goblin-ev1,electro-spirit,goblin-barrel-ev1,goblin-gang,princess,valkyrie-hero",
+    "variantesFuente": [
+      "berserker",
+      "cannon",
+      "dart-goblin-ev1",
+      "electro-spirit",
+      "goblin-barrel-ev1",
+      "goblin-gang",
+      "princess",
+      "valkyrie-hero"
+    ],
+    "nombre": "c_barrildeduendes + c_berserker [a8d11abe0a975e8434be505fc9992df8a22c1c39b7b097b2932d0eaec030b2b5]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_caballero|c_cohete|c_espiritudehielo|c_pandilladeduendes|c_princesa|c_torreinfernal|c_tronco",
+    "id": "b6b4bc43b499b6334e6398f4e41dd805a67791c2ded3a97ecc562ce46d513104",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_caballero",
+      "c_cohete",
+      "c_espiritudehielo",
+      "c_pandilladeduendes",
+      "c_princesa",
+      "c_torreinfernal",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/goblin-barrel-ev1,goblin-gang,ice-spirit,inferno-tower,knight-hero,princess-ev1,rocket,the-log",
+    "variantesFuente": [
+      "goblin-barrel-ev1",
+      "goblin-gang",
+      "ice-spirit",
+      "inferno-tower",
+      "knight-hero",
+      "princess-ev1",
+      "rocket",
+      "the-log"
+    ],
+    "nombre": "c_barrildeduendes + c_caballero [b6b4bc43b499b6334e6398f4e41dd805a67791c2ded3a97ecc562ce46d513104]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_caballero|c_cohete|c_esqueletos|c_pandilladeduendes|c_princesa|c_torreinfernal|c_tronco",
+    "id": "406c9f8fc64fef733e18a084126de3369c827aee2586627eb548dde3f57c80c7",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_caballero",
+      "c_cohete",
+      "c_esqueletos",
+      "c_pandilladeduendes",
+      "c_princesa",
+      "c_torreinfernal",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/goblin-barrel-ev1,goblin-gang,inferno-tower,knight-hero,princess,rocket,skeletons-ev1,the-log",
+    "variantesFuente": [
+      "goblin-barrel-ev1",
+      "goblin-gang",
+      "inferno-tower",
+      "knight-hero",
+      "princess",
+      "rocket",
+      "skeletons-ev1",
+      "the-log"
+    ],
+    "nombre": "c_barrildeduendes + c_caballero [406c9f8fc64fef733e18a084126de3369c827aee2586627eb548dde3f57c80c7]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_caballero|c_duendelanzadardos|c_ejercitodeesqueletos|c_espiritudehielo|c_princesa|c_torreinfernal|c_tronco",
+    "id": "0c274b71b323eada79f5bf3830e673e24b115e1abd6063f5a159cb6940e319a7",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_caballero",
+      "c_duendelanzadardos",
+      "c_ejercitodeesqueletos",
+      "c_espiritudehielo",
+      "c_princesa",
+      "c_torreinfernal",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dart-goblin,goblin-barrel-ev1,ice-spirit,inferno-tower,knight-hero,princess,skeleton-army-ev1,the-log",
+    "variantesFuente": [
+      "dart-goblin",
+      "goblin-barrel-ev1",
+      "ice-spirit",
+      "inferno-tower",
+      "knight-hero",
+      "princess",
+      "skeleton-army-ev1",
+      "the-log"
+    ],
+    "nombre": "c_barrildeduendes + c_caballero [0c274b71b323eada79f5bf3830e673e24b115e1abd6063f5a159cb6940e319a7]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_caballero|c_duendelanzadardos|c_espiritudehielo|c_pandilladeduendes|c_princesa|c_torreinfernal|c_tronco",
+    "id": "ad7ec355311e167534cda0f8e8d353b17230dff8f91d37cf1a28ce878f3ba3d4",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_caballero",
+      "c_duendelanzadardos",
+      "c_espiritudehielo",
+      "c_pandilladeduendes",
+      "c_princesa",
+      "c_torreinfernal",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dart-goblin,goblin-barrel-ev1,goblin-gang,ice-spirit,inferno-tower,knight-hero,princess-ev1,the-log",
+    "variantesFuente": [
+      "dart-goblin",
+      "goblin-barrel-ev1",
+      "goblin-gang",
+      "ice-spirit",
+      "inferno-tower",
+      "knight-hero",
+      "princess-ev1",
+      "the-log"
+    ],
+    "nombre": "c_barrildeduendes + c_caballero [ad7ec355311e167534cda0f8e8d353b17230dff8f91d37cf1a28ce878f3ba3d4]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_canon|c_cohete|c_duendes|c_espiritudehielo|c_granminero|c_princesa|c_tronco",
+    "id": "59a3d6d0520158cf0a343c3f7865bf1e7b4ce33b82dde26285c053ce0efe08f2",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_canon",
+      "c_cohete",
+      "c_duendes",
+      "c_espiritudehielo",
+      "c_granminero",
+      "c_princesa",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/cannon-ev1,goblin-barrel,goblins,ice-spirit,mighty-miner,princess-ev1,rocket,the-log",
+    "variantesFuente": [
+      "cannon-ev1",
+      "goblin-barrel",
+      "goblins",
+      "ice-spirit",
+      "mighty-miner",
+      "princess-ev1",
+      "rocket",
+      "the-log"
+    ],
+    "nombre": "c_barrildeduendes + c_canon [59a3d6d0520158cf0a343c3f7865bf1e7b4ce33b82dde26285c053ce0efe08f2]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_canon|c_duendelanzadardos|c_ejercitodeesqueletos|c_espiritudehielo|c_princesa|c_rompemuros|c_valquiria",
+    "id": "7a95570191a717e9b7c1f4fbd2f015c5f15448808a3fd22b302a8c35c46df5ff",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_canon",
+      "c_duendelanzadardos",
+      "c_ejercitodeesqueletos",
+      "c_espiritudehielo",
+      "c_princesa",
+      "c_rompemuros",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/cannon,dart-goblin,goblin-barrel-ev1,ice-spirit,princess,skeleton-army-ev1,valkyrie-hero,wall-breakers",
+    "variantesFuente": [
+      "cannon",
+      "dart-goblin",
+      "goblin-barrel-ev1",
+      "ice-spirit",
+      "princess",
+      "skeleton-army-ev1",
+      "valkyrie-hero",
+      "wall-breakers"
+    ],
+    "nombre": "c_barrildeduendes + c_canon [7a95570191a717e9b7c1f4fbd2f015c5f15448808a3fd22b302a8c35c46df5ff]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_canon|c_duendelanzadardos|c_espirituelectrico|c_pandilladeduendes|c_princesa|c_rompemuros|c_valquiria",
+    "id": "f829879d8833bdd308134dc83cb0d706f1ca3881b6cc3af954d391da1022189a",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_canon",
+      "c_duendelanzadardos",
+      "c_espirituelectrico",
+      "c_pandilladeduendes",
+      "c_princesa",
+      "c_rompemuros",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/cannon,dart-goblin-ev1,electro-spirit,goblin-barrel-ev1,goblin-gang,princess,valkyrie-hero,wall-breakers",
+    "variantesFuente": [
+      "cannon",
+      "dart-goblin-ev1",
+      "electro-spirit",
+      "goblin-barrel-ev1",
+      "goblin-gang",
+      "princess",
+      "valkyrie-hero",
+      "wall-breakers"
+    ],
+    "nombre": "c_barrildeduendes + c_canon [f829879d8833bdd308134dc83cb0d706f1ca3881b6cc3af954d391da1022189a]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_cazador|c_cohete|c_espejo|c_flechas|c_horno|c_lanzarrocas|c_pillos",
+    "id": "e769053698e5b453521d52f188750b64385678c35130af9f48a169b3e2351874",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_cazador",
+      "c_cohete",
+      "c_espejo",
+      "c_flechas",
+      "c_horno",
+      "c_lanzarrocas",
+      "c_pillos"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bowler-hero,furnace,goblin-barrel-ev1,hunter-ev1,mirror,rascals,rocket",
+    "variantesFuente": [
+      "arrows",
+      "bowler-hero",
+      "furnace",
+      "goblin-barrel-ev1",
+      "hunter-ev1",
+      "mirror",
+      "rascals",
+      "rocket"
+    ],
+    "nombre": "c_barrildeduendes + c_cazador [e769053698e5b453521d52f188750b64385678c35130af9f48a169b3e2351874]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_cohete|c_espejo|c_flechas|c_horno|c_lanzarrocas|c_minipekka|c_pillos",
+    "id": "ac426d7cd22f90055dd5fa818b5a5616ed10cb7e6bbf0b02ac1e86c585d9a369",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_cohete",
+      "c_espejo",
+      "c_flechas",
+      "c_horno",
+      "c_lanzarrocas",
+      "c_minipekka",
+      "c_pillos"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bowler-hero,furnace-ev1,goblin-barrel-ev1,mini-pekka,mirror,rascals,rocket",
+    "variantesFuente": [
+      "arrows",
+      "bowler-hero",
+      "furnace-ev1",
+      "goblin-barrel-ev1",
+      "mini-pekka",
+      "mirror",
+      "rascals",
+      "rocket"
+    ],
+    "nombre": "c_barrildeduendes + c_cohete [ac426d7cd22f90055dd5fa818b5a5616ed10cb7e6bbf0b02ac1e86c585d9a369]"
+  },
+  {
+    "hashId": "c_barrildeduendes|c_duendelanzadardos|c_ejercitodeesqueletos|c_espiritudehielo|c_princesa|c_rompemuros|c_torreinfernal|c_valquiria",
+    "id": "5186c11abd56671effd0bbc2a8a82f9e10caac50543a3213e5a7fd2ebca04cc3",
+    "cartasIds": [
+      "c_barrildeduendes",
+      "c_duendelanzadardos",
+      "c_ejercitodeesqueletos",
+      "c_espiritudehielo",
+      "c_princesa",
+      "c_rompemuros",
+      "c_torreinfernal",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dart-goblin,goblin-barrel-ev1,ice-spirit,inferno-tower,princess,skeleton-army-ev1,valkyrie-hero,wall-breakers",
+    "variantesFuente": [
+      "dart-goblin",
+      "goblin-barrel-ev1",
+      "ice-spirit",
+      "inferno-tower",
+      "princess",
+      "skeleton-army-ev1",
+      "valkyrie-hero",
+      "wall-breakers"
+    ],
+    "nombre": "c_barrildeduendes + c_duendelanzadardos [5186c11abd56671effd0bbc2a8a82f9e10caac50543a3213e5a7fd2ebca04cc3]"
+  },
+  {
+    "hashId": "c_barrildeesqueletos|c_boladefuego|c_canonconruedas|c_magodehielo|c_mortero|c_pandilladeduendes|c_pillos|c_tronco",
+    "id": "df3c4d28b3a3562f0d311c399222eef10ae109bb96a72d27ef6ad22d2cc3cd97",
+    "cartasIds": [
+      "c_barrildeesqueletos",
+      "c_boladefuego",
+      "c_canonconruedas",
+      "c_magodehielo",
+      "c_mortero",
+      "c_pandilladeduendes",
+      "c_pillos",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/cannon-cart,fireball,goblin-gang,ice-wizard-hero,mortar-ev1,rascals,skeleton-barrel-ev1,the-log",
+    "variantesFuente": [
+      "cannon-cart",
+      "fireball",
+      "goblin-gang",
+      "ice-wizard-hero",
+      "mortar-ev1",
+      "rascals",
+      "skeleton-barrel-ev1",
+      "the-log"
+    ],
+    "nombre": "c_barrildeesqueletos + c_boladefuego [df3c4d28b3a3562f0d311c399222eef10ae109bb96a72d27ef6ad22d2cc3cd97]"
+  },
+  {
+    "hashId": "c_barrildeesqueletos|c_boladenieve|c_duendesconlanza|c_hordadeesbirros|c_minero|c_mortero|c_pandilladeduendes|c_pillos",
+    "id": "873e1ce848d9f3eefc06719ad74bf0b2606d0d9f7cb1d1bf96ec5ebf73780afe",
+    "cartasIds": [
+      "c_barrildeesqueletos",
+      "c_boladenieve",
+      "c_duendesconlanza",
+      "c_hordadeesbirros",
+      "c_minero",
+      "c_mortero",
+      "c_pandilladeduendes",
+      "c_pillos"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/giant-snowball,goblin-gang,miner,minion-horde-ev1,mortar,rascals,skeleton-barrel-ev1,spear-goblins",
+    "variantesFuente": [
+      "giant-snowball",
+      "goblin-gang",
+      "miner",
+      "minion-horde-ev1",
+      "mortar",
+      "rascals",
+      "skeleton-barrel-ev1",
+      "spear-goblins"
+    ],
+    "nombre": "c_barrildeesqueletos + c_boladenieve [873e1ce848d9f3eefc06719ad74bf0b2606d0d9f7cb1d1bf96ec5ebf73780afe]"
+  },
+  {
+    "hashId": "c_barrildeesqueletos|c_ejercitodeesqueletos|c_hordadeesbirros|c_minero|c_pillos|c_princesa|c_tronco|c_valquiria",
+    "id": "f4190c3fa42880bfbc4dace0510b537c5416f11e8954156a192089784844c3e3",
+    "cartasIds": [
+      "c_barrildeesqueletos",
+      "c_ejercitodeesqueletos",
+      "c_hordadeesbirros",
+      "c_minero",
+      "c_pillos",
+      "c_princesa",
+      "c_tronco",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/miner,minion-horde-ev1,princess,rascals,skeleton-army,skeleton-barrel-ev1,the-log,valkyrie-hero",
+    "variantesFuente": [
+      "miner",
+      "minion-horde-ev1",
+      "princess",
+      "rascals",
+      "skeleton-army",
+      "skeleton-barrel-ev1",
+      "the-log",
+      "valkyrie-hero"
+    ],
+    "nombre": "c_barrildeesqueletos + c_ejercitodeesqueletos [f4190c3fa42880bfbc4dace0510b537c5416f11e8954156a192089784844c3e3]"
+  },
+  {
+    "hashId": "c_bebedragon|c_berserker|c_bruja|c_enredadera|c_golem|c_minipekka|c_recolectordeelixir|c_tornado",
+    "id": "a20fd7e8244c08206769b3dbdcf0458ef5b80983f4db0cca6ae3db6582bd09b0",
+    "cartasIds": [
+      "c_bebedragon",
+      "c_berserker",
+      "c_bruja",
+      "c_enredadera",
+      "c_golem",
+      "c_minipekka",
+      "c_recolectordeelixir",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/baby-dragon-ev1,berserker-hero,elixir-collector,golem,mini-pekka,tornado,vines,witch-ev1",
+    "variantesFuente": [
+      "baby-dragon-ev1",
+      "berserker-hero",
+      "elixir-collector",
+      "golem",
+      "mini-pekka",
+      "tornado",
+      "vines",
+      "witch-ev1"
+    ],
+    "nombre": "c_bebedragon + c_berserker [a20fd7e8244c08206769b3dbdcf0458ef5b80983f4db0cca6ae3db6582bd09b0]"
+  },
+  {
+    "hashId": "c_berserker|c_ejercitodeesqueletos|c_hordadeesbirros|c_minero|c_princesa|c_rompemuros|c_torreinfernal|c_tronco",
+    "id": "cbdd24dfb29bf062d594ef78ecdbdb165df553b442a8dcb631620f05efc0680d",
+    "cartasIds": [
+      "c_berserker",
+      "c_ejercitodeesqueletos",
+      "c_hordadeesbirros",
+      "c_minero",
+      "c_princesa",
+      "c_rompemuros",
+      "c_torreinfernal",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/berserker-hero,inferno-tower,miner,minion-horde-ev1,princess,skeleton-army-ev1,the-log,wall-breakers",
+    "variantesFuente": [
+      "berserker-hero",
+      "inferno-tower",
+      "miner",
+      "minion-horde-ev1",
+      "princess",
+      "skeleton-army-ev1",
+      "the-log",
+      "wall-breakers"
+    ],
+    "nombre": "c_berserker + c_ejercitodeesqueletos [cbdd24dfb29bf062d594ef78ecdbdb165df553b442a8dcb631620f05efc0680d]"
+  },
+  {
+    "hashId": "c_boladefuego|c_boladenieve|c_duendelanzadardos|c_ejercitodeesqueletos|c_excavadoradeduendes|c_reyesqueleto|c_rompemuros|c_torreinfernal",
+    "id": "713c2cb1d1f90f7ec8266a2a8983697dc08b920656e9e97e0f8f3b3b361d3289",
+    "cartasIds": [
+      "c_boladefuego",
+      "c_boladenieve",
+      "c_duendelanzadardos",
+      "c_ejercitodeesqueletos",
+      "c_excavadoradeduendes",
+      "c_reyesqueleto",
+      "c_rompemuros",
+      "c_torreinfernal"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dart-goblin,fireball,giant-snowball-ev1,goblin-drill,inferno-tower,skeleton-army-ev1,skeleton-king,wall-breakers",
+    "variantesFuente": [
+      "dart-goblin",
+      "fireball",
+      "giant-snowball-ev1",
+      "goblin-drill",
+      "inferno-tower",
+      "skeleton-army-ev1",
+      "skeleton-king",
+      "wall-breakers"
+    ],
+    "nombre": "c_boladefuego + c_boladenieve [713c2cb1d1f90f7ec8266a2a8983697dc08b920656e9e97e0f8f3b3b361d3289]"
+  },
+  {
+    "hashId": "c_boladefuego|c_canon|c_espiritudefuego|c_esqueletos|c_excavadoradeduendes|c_granminero|c_rompemuros|c_tronco",
+    "id": "26ba1478fbba2d955cc79cf9946dff9e225287c4f9382e553697c14d31303788",
+    "cartasIds": [
+      "c_boladefuego",
+      "c_canon",
+      "c_espiritudefuego",
+      "c_esqueletos",
+      "c_excavadoradeduendes",
+      "c_granminero",
+      "c_rompemuros",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/cannon-ev1,fire-spirit,fireball,goblin-drill,mighty-miner,skeletons,the-log,wall-breakers-ev1",
+    "variantesFuente": [
+      "cannon-ev1",
+      "fire-spirit",
+      "fireball",
+      "goblin-drill",
+      "mighty-miner",
+      "skeletons",
+      "the-log",
+      "wall-breakers-ev1"
+    ],
+    "nombre": "c_boladefuego + c_canon [26ba1478fbba2d955cc79cf9946dff9e225287c4f9382e553697c14d31303788]"
+  },
+  {
+    "hashId": "c_boladefuego|c_canon|c_espiritudehielo|c_esqueletos|c_golemdehielo|c_montapuercos|c_mosquetera|c_tronco",
+    "id": "0cac71c3732d7353c24462a0d397b0bf663bb9d0d6db4cc127dd03fe5451cd27",
+    "cartasIds": [
+      "c_boladefuego",
+      "c_canon",
+      "c_espiritudehielo",
+      "c_esqueletos",
+      "c_golemdehielo",
+      "c_montapuercos",
+      "c_mosquetera",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/cannon-ev1,fireball,hog-rider,ice-golem,ice-spirit,musketeer-hero,skeletons-ev1,the-log",
+    "variantesFuente": [
+      "cannon-ev1",
+      "fireball",
+      "hog-rider",
+      "ice-golem",
+      "ice-spirit",
+      "musketeer-hero",
+      "skeletons-ev1",
+      "the-log"
+    ],
+    "nombre": "c_boladefuego + c_canon [0cac71c3732d7353c24462a0d397b0bf663bb9d0d6db4cc127dd03fe5451cd27]"
+  },
+  {
+    "hashId": "c_boladefuego|c_descarga|c_dragonesesqueleto|c_globobombastico|c_lapida|c_megaesbirro|c_sabuesodelava|c_valquiria",
+    "id": "cbd4258efca7a6636206b286177f8263cb48d4a0f8ef5fa09fda651feddde71b",
+    "cartasIds": [
+      "c_boladefuego",
+      "c_descarga",
+      "c_dragonesesqueleto",
+      "c_globobombastico",
+      "c_lapida",
+      "c_megaesbirro",
+      "c_sabuesodelava",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/balloon-hero,fireball,lava-hound,mega-minion,skeleton-dragons,tombstone,valkyrie-ev1,zap-ev1",
+    "variantesFuente": [
+      "balloon-hero",
+      "fireball",
+      "lava-hound",
+      "mega-minion",
+      "skeleton-dragons",
+      "tombstone",
+      "valkyrie-ev1",
+      "zap-ev1"
+    ],
+    "nombre": "c_boladefuego + c_descarga [cbd4258efca7a6636206b286177f8263cb48d4a0f8ef5fa09fda651feddde71b]"
+  },
+  {
+    "hashId": "c_boladefuego|c_descarga|c_furia|c_gigante|c_magoelectrico|c_megaesbirro|c_principe|c_principeoscuro",
+    "id": "8339a32d837353e5db6ba3a555d99d364a169d46b3a8694e90cb29d68ba2ac49",
+    "cartasIds": [
+      "c_boladefuego",
+      "c_descarga",
+      "c_furia",
+      "c_gigante",
+      "c_magoelectrico",
+      "c_megaesbirro",
+      "c_principe",
+      "c_principeoscuro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dark-prince,electro-wizard,fireball,giant-ev1,mega-minion-hero,prince,rage,zap-ev1",
+    "variantesFuente": [
+      "dark-prince",
+      "electro-wizard",
+      "fireball",
+      "giant-ev1",
+      "mega-minion-hero",
+      "prince",
+      "rage",
+      "zap-ev1"
+    ],
+    "nombre": "c_boladefuego + c_descarga [8339a32d837353e5db6ba3a555d99d364a169d46b3a8694e90cb29d68ba2ac49]"
+  },
+  {
+    "hashId": "c_boladefuego|c_duendes|c_golemdehielo|c_lanzafuegos|c_minipekka|c_murcielagos|c_puercosreales|c_tronco",
+    "id": "862c85af9a83ae13d1818d81b8cb7ee1176c3df01d0ab2d6295f4ee39b02d596",
+    "cartasIds": [
+      "c_boladefuego",
+      "c_duendes",
+      "c_golemdehielo",
+      "c_lanzafuegos",
+      "c_minipekka",
+      "c_murcielagos",
+      "c_puercosreales",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bats-ev1,fireball,firecracker,goblins,ice-golem,mini-pekka-hero,royal-hogs-ev1,the-log",
+    "variantesFuente": [
+      "bats-ev1",
+      "fireball",
+      "firecracker",
+      "goblins",
+      "ice-golem",
+      "mini-pekka-hero",
+      "royal-hogs-ev1",
+      "the-log"
+    ],
+    "nombre": "c_boladefuego + c_duendes [862c85af9a83ae13d1818d81b8cb7ee1176c3df01d0ab2d6295f4ee39b02d596]"
+  },
+  {
+    "hashId": "c_boladefuego|c_espiritudefuego|c_esqueletos|c_golemdehielo|c_montapuercos|c_mosquetera|c_torrebombardera|c_tronco",
+    "id": "7c766e72b51fc592930d7a4a44797901ea10de8f55b0bf80c350e92dbc3eb36d",
+    "cartasIds": [
+      "c_boladefuego",
+      "c_espiritudefuego",
+      "c_esqueletos",
+      "c_golemdehielo",
+      "c_montapuercos",
+      "c_mosquetera",
+      "c_torrebombardera",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bomb-tower,fire-spirit,fireball,hog-rider,ice-golem-hero,musketeer-ev1,skeletons-ev1,the-log",
+    "variantesFuente": [
+      "bomb-tower",
+      "fire-spirit",
+      "fireball",
+      "hog-rider",
+      "ice-golem-hero",
+      "musketeer-ev1",
+      "skeletons-ev1",
+      "the-log"
+    ],
+    "nombre": "c_boladefuego + c_espiritudefuego [7c766e72b51fc592930d7a4a44797901ea10de8f55b0bf80c350e92dbc3eb36d]"
+  },
+  {
+    "hashId": "c_boladenieve|c_bombardero|c_caballero|c_canon|c_espiritudefuego|c_esqueletos|c_excavadoradeduendes|c_veneno",
+    "id": "961b9dafadfa5ee4f4c23ca66bd73a865e75860f6e9fae60e919748dfdafd6d3",
+    "cartasIds": [
+      "c_boladenieve",
+      "c_bombardero",
+      "c_caballero",
+      "c_canon",
+      "c_espiritudefuego",
+      "c_esqueletos",
+      "c_excavadoradeduendes",
+      "c_veneno"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bomber,cannon,fire-spirit,giant-snowball-ev1,goblin-drill-ev1,knight-hero,poison,skeletons",
+    "variantesFuente": [
+      "bomber",
+      "cannon",
+      "fire-spirit",
+      "giant-snowball-ev1",
+      "goblin-drill-ev1",
+      "knight-hero",
+      "poison",
+      "skeletons"
+    ],
+    "nombre": "c_boladenieve + c_bombardero [961b9dafadfa5ee4f4c23ca66bd73a865e75860f6e9fae60e919748dfdafd6d3]"
+  },
+  {
+    "hashId": "c_boladenieve|c_bruja|c_cementerio|c_electrocutadores|c_flechas|c_gigante|c_guardias|c_lanzarrocas",
+    "id": "06dba0382cb9bf5e1d9fc6ccc99c1e0fc5507cdf1259e47821584668e9fe25dc",
+    "cartasIds": [
+      "c_boladenieve",
+      "c_bruja",
+      "c_cementerio",
+      "c_electrocutadores",
+      "c_flechas",
+      "c_gigante",
+      "c_guardias",
+      "c_lanzarrocas"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bowler-hero,giant,giant-snowball-ev1,graveyard,guards,witch-ev1,zappies",
+    "variantesFuente": [
+      "arrows",
+      "bowler-hero",
+      "giant",
+      "giant-snowball-ev1",
+      "graveyard",
+      "guards",
+      "witch-ev1",
+      "zappies"
+    ],
+    "nombre": "c_boladenieve + c_bruja [06dba0382cb9bf5e1d9fc6ccc99c1e0fc5507cdf1259e47821584668e9fe25dc]"
+  },
+  {
+    "hashId": "c_boladenieve|c_bruja|c_cementerio|c_electrocutadores|c_flechas|c_gigante|c_lanzarrocas|c_minipekka",
+    "id": "87986127223b4752a5f2e29c5f6a90bd79308d5ce47e07f331509b8fcd6e06f4",
+    "cartasIds": [
+      "c_boladenieve",
+      "c_bruja",
+      "c_cementerio",
+      "c_electrocutadores",
+      "c_flechas",
+      "c_gigante",
+      "c_lanzarrocas",
+      "c_minipekka"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bowler-hero,giant,giant-snowball-ev1,graveyard,mini-pekka,witch-ev1,zappies",
+    "variantesFuente": [
+      "arrows",
+      "bowler-hero",
+      "giant",
+      "giant-snowball-ev1",
+      "graveyard",
+      "mini-pekka",
+      "witch-ev1",
+      "zappies"
+    ],
+    "nombre": "c_boladenieve + c_bruja [87986127223b4752a5f2e29c5f6a90bd79308d5ce47e07f331509b8fcd6e06f4]"
+  },
+  {
+    "hashId": "c_boladenieve|c_caballero|c_duendedemolicion|c_espiritudefuego|c_esqueletos|c_excavadoradeduendes|c_torretesla|c_veneno",
+    "id": "bbdcb4408d697fd3426e878221f8f5106ba61b635ec6c37e8cc98bbc5e1a6bf9",
+    "cartasIds": [
+      "c_boladenieve",
+      "c_caballero",
+      "c_duendedemolicion",
+      "c_espiritudefuego",
+      "c_esqueletos",
+      "c_excavadoradeduendes",
+      "c_torretesla",
+      "c_veneno"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/fire-spirit,giant-snowball-ev1,goblin-demolisher,goblin-drill-ev1,knight-hero,poison,skeletons,tesla",
+    "variantesFuente": [
+      "fire-spirit",
+      "giant-snowball-ev1",
+      "goblin-demolisher",
+      "goblin-drill-ev1",
+      "knight-hero",
+      "poison",
+      "skeletons",
+      "tesla"
+    ],
+    "nombre": "c_boladenieve + c_caballero [bbdcb4408d697fd3426e878221f8f5106ba61b635ec6c37e8cc98bbc5e1a6bf9]"
+  },
+  {
+    "hashId": "c_brujamadre|c_chispitas|c_descarga|c_furia|c_gigante|c_hordadeesbirros|c_minipekka|c_principeoscuro",
+    "id": "e40071fb8162ab02ccc7b9b2f7e17883ed75108a935df89c2f839fa451c6caba",
+    "cartasIds": [
+      "c_brujamadre",
+      "c_chispitas",
+      "c_descarga",
+      "c_furia",
+      "c_gigante",
+      "c_hordadeesbirros",
+      "c_minipekka",
+      "c_principeoscuro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dark-prince,giant-ev1,mini-pekka-hero,minion-horde-ev1,mother-witch,rage,sparky,zap",
+    "variantesFuente": [
+      "dark-prince",
+      "giant-ev1",
+      "mini-pekka-hero",
+      "minion-horde-ev1",
+      "mother-witch",
+      "rage",
+      "sparky",
+      "zap"
+    ],
+    "nombre": "c_brujamadre + c_chispitas [e40071fb8162ab02ccc7b9b2f7e17883ed75108a935df89c2f839fa451c6caba]"
+  },
+  {
+    "hashId": "c_brujamadre|c_descarga|c_hordadeesbirros|c_minero|c_mortero|c_pandilladeduendes|c_reinaarquera|c_ronin",
+    "id": "693a58b90a613ba8faae1c37b962fe998c4c30aca467d30247d804c591b04016",
+    "cartasIds": [
+      "c_brujamadre",
+      "c_descarga",
+      "c_hordadeesbirros",
+      "c_minero",
+      "c_mortero",
+      "c_pandilladeduendes",
+      "c_reinaarquera",
+      "c_ronin"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archer-queen,goblin-gang,miner,minion-horde-ev1,mortar-ev1,mother-witch,ronin,zap",
+    "variantesFuente": [
+      "archer-queen",
+      "goblin-gang",
+      "miner",
+      "minion-horde-ev1",
+      "mortar-ev1",
+      "mother-witch",
+      "ronin",
+      "zap"
+    ],
+    "nombre": "c_brujamadre + c_descarga [693a58b90a613ba8faae1c37b962fe998c4c30aca467d30247d804c591b04016]"
+  },
+  {
+    "hashId": "c_brujamadre|c_dragonelectrico|c_golemdeelixir|c_horno|c_lanzarrocas|c_lapida|c_monje|c_tornado",
+    "id": "1524014d20fcb470d181c92b304609f27f8b9362d368810551214713fe01543c",
+    "cartasIds": [
+      "c_brujamadre",
+      "c_dragonelectrico",
+      "c_golemdeelixir",
+      "c_horno",
+      "c_lanzarrocas",
+      "c_lapida",
+      "c_monje",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/bowler,electro-dragon-ev1,elixir-golem,furnace,monk,mother-witch,tombstone-hero,tornado",
+    "variantesFuente": [
+      "bowler",
+      "electro-dragon-ev1",
+      "elixir-golem",
+      "furnace",
+      "monk",
+      "mother-witch",
+      "tombstone-hero",
+      "tornado"
+    ],
+    "nombre": "c_brujamadre + c_dragonelectrico [1524014d20fcb470d181c92b304609f27f8b9362d368810551214713fe01543c]"
+  },
+  {
+    "hashId": "c_brujanocturna|c_ejercitodeesqueletos|c_flechas|c_furia|c_golemdeelixir|c_mago|c_reyesqueleto|c_vacio",
+    "id": "afebcabec110b638539d9d080a30b7d285c22e1b157ed371bae65ecb52d241b3",
+    "cartasIds": [
+      "c_brujanocturna",
+      "c_ejercitodeesqueletos",
+      "c_flechas",
+      "c_furia",
+      "c_golemdeelixir",
+      "c_mago",
+      "c_reyesqueleto",
+      "c_vacio"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,elixir-golem,night-witch,rage,skeleton-army-ev1,skeleton-king,void,wizard-ev1",
+    "variantesFuente": [
+      "arrows",
+      "elixir-golem",
+      "night-witch",
+      "rage",
+      "skeleton-army-ev1",
+      "skeleton-king",
+      "void",
+      "wizard-ev1"
+    ],
+    "nombre": "c_brujanocturna + c_ejercitodeesqueletos [afebcabec110b638539d9d080a30b7d285c22e1b157ed371bae65ecb52d241b3]"
+  },
+  {
+    "hashId": "c_bruja|c_brujanocturna|c_dragoninfernal|c_flechas|c_furia|c_golem|c_golemdeelixir|c_minipekka",
+    "id": "479b7fa8b1511c189fa4d7eb580afce6c05205c5568a7299874f02c40ef6a9e8",
+    "cartasIds": [
+      "c_bruja",
+      "c_brujanocturna",
+      "c_dragoninfernal",
+      "c_flechas",
+      "c_furia",
+      "c_golem",
+      "c_golemdeelixir",
+      "c_minipekka"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,elixir-golem,golem,inferno-dragon-ev1,mini-pekka-hero,night-witch,rage,witch-ev1",
+    "variantesFuente": [
+      "arrows",
+      "elixir-golem",
+      "golem",
+      "inferno-dragon-ev1",
+      "mini-pekka-hero",
+      "night-witch",
+      "rage",
+      "witch-ev1"
+    ],
+    "nombre": "c_bruja + c_brujanocturna [479b7fa8b1511c189fa4d7eb580afce6c05205c5568a7299874f02c40ef6a9e8]"
+  },
+  {
+    "hashId": "c_bruja|c_brujanocturna|c_ejercitodeesqueletos|c_flechas|c_golemdeelixir|c_maldicionduende|c_reyesqueleto|c_vacio",
+    "id": "114ebf2295c2bfba9dd8b10dd1cee9e18f40626252ee48a0bd1cf39f8f7ef17d",
+    "cartasIds": [
+      "c_bruja",
+      "c_brujanocturna",
+      "c_ejercitodeesqueletos",
+      "c_flechas",
+      "c_golemdeelixir",
+      "c_maldicionduende",
+      "c_reyesqueleto",
+      "c_vacio"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,elixir-golem,goblin-curse,night-witch,skeleton-army-ev1,skeleton-king,void,witch-ev1",
+    "variantesFuente": [
+      "arrows",
+      "elixir-golem",
+      "goblin-curse",
+      "night-witch",
+      "skeleton-army-ev1",
+      "skeleton-king",
+      "void",
+      "witch-ev1"
+    ],
+    "nombre": "c_bruja + c_brujanocturna [114ebf2295c2bfba9dd8b10dd1cee9e18f40626252ee48a0bd1cf39f8f7ef17d]"
+  },
+  {
+    "hashId": "c_bruja|c_brujanocturna|c_ejercitodeesqueletos|c_furia|c_golemdeelixir|c_maldicionduende|c_rayo|c_reyesqueleto",
+    "id": "3a3493cece51b1a245bc91b9c530da66f17716acde98bae462769500d7d5940a",
+    "cartasIds": [
+      "c_bruja",
+      "c_brujanocturna",
+      "c_ejercitodeesqueletos",
+      "c_furia",
+      "c_golemdeelixir",
+      "c_maldicionduende",
+      "c_rayo",
+      "c_reyesqueleto"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/elixir-golem,goblin-curse,lightning,night-witch,rage,skeleton-army-ev1,skeleton-king,witch-ev1",
+    "variantesFuente": [
+      "elixir-golem",
+      "goblin-curse",
+      "lightning",
+      "night-witch",
+      "rage",
+      "skeleton-army-ev1",
+      "skeleton-king",
+      "witch-ev1"
+    ],
+    "nombre": "c_bruja + c_brujanocturna [3a3493cece51b1a245bc91b9c530da66f17716acde98bae462769500d7d5940a]"
+  },
+  {
+    "hashId": "c_bruja|c_brujanocturna|c_flechas|c_golemdeelixir|c_lapida|c_rayo|c_reyesqueleto|c_valquiria",
+    "id": "b220281b64db177d4057308befa03d41b273e7e45a04264b3b2d4b898890398b",
+    "cartasIds": [
+      "c_bruja",
+      "c_brujanocturna",
+      "c_flechas",
+      "c_golemdeelixir",
+      "c_lapida",
+      "c_rayo",
+      "c_reyesqueleto",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,elixir-golem,lightning,night-witch,skeleton-king,tombstone,valkyrie-hero,witch-ev1",
+    "variantesFuente": [
+      "arrows",
+      "elixir-golem",
+      "lightning",
+      "night-witch",
+      "skeleton-king",
+      "tombstone",
+      "valkyrie-hero",
+      "witch-ev1"
+    ],
+    "nombre": "c_bruja + c_brujanocturna [b220281b64db177d4057308befa03d41b273e7e45a04264b3b2d4b898890398b]"
+  },
+  {
+    "hashId": "c_bruja|c_ejercitodeesqueletos|c_furia|c_golemdeelixir|c_maldicionduende|c_minipekka|c_reyesqueleto|c_vacio",
+    "id": "a670e1d28308a567e9205638b4e4a92f1a17e0827a6be178eba378feea36f722",
+    "cartasIds": [
+      "c_bruja",
+      "c_ejercitodeesqueletos",
+      "c_furia",
+      "c_golemdeelixir",
+      "c_maldicionduende",
+      "c_minipekka",
+      "c_reyesqueleto",
+      "c_vacio"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/elixir-golem,goblin-curse,mini-pekka,rage,skeleton-army-ev1,skeleton-king,void,witch-ev1",
+    "variantesFuente": [
+      "elixir-golem",
+      "goblin-curse",
+      "mini-pekka",
+      "rage",
+      "skeleton-army-ev1",
+      "skeleton-king",
+      "void",
+      "witch-ev1"
+    ],
+    "nombre": "c_bruja + c_ejercitodeesqueletos [a670e1d28308a567e9205638b4e4a92f1a17e0827a6be178eba378feea36f722]"
+  },
+  {
+    "hashId": "c_caballero|c_espiritudehielo|c_esqueletos|c_lanzafuegos|c_montapuercos|c_terremoto|c_torretesla|c_tronco",
+    "id": "3c90e0ce9dfcb0e7f46c9de0e91e8abc4534c852a521b858cac99dd9b84886ab",
+    "cartasIds": [
+      "c_caballero",
+      "c_espiritudehielo",
+      "c_esqueletos",
+      "c_lanzafuegos",
+      "c_montapuercos",
+      "c_terremoto",
+      "c_torretesla",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/earthquake,firecracker-ev1,hog-rider,ice-spirit,knight-hero,skeletons,tesla-ev1,the-log",
+    "variantesFuente": [
+      "earthquake",
+      "firecracker-ev1",
+      "hog-rider",
+      "ice-spirit",
+      "knight-hero",
+      "skeletons",
+      "tesla-ev1",
+      "the-log"
+    ],
+    "nombre": "c_caballero + c_espiritudehielo [3c90e0ce9dfcb0e7f46c9de0e91e8abc4534c852a521b858cac99dd9b84886ab]"
+  },
+  {
+    "hashId": "c_canon|c_esbirrogigante|c_espirituelectrico|c_esqueletos|c_granminero|c_horno|c_rayo|c_tronco",
+    "id": "25721d081f99b8e4f60b1385fd75684af3dd0b1f948d30c259368ac0f0698714",
+    "cartasIds": [
+      "c_canon",
+      "c_esbirrogigante",
+      "c_espirituelectrico",
+      "c_esqueletos",
+      "c_granminero",
+      "c_horno",
+      "c_rayo",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/cannon-ev1,electro-spirit,furnace-ev1,lightning,mighty-miner,minion-giant,skeletons,the-log",
+    "variantesFuente": [
+      "cannon-ev1",
+      "electro-spirit",
+      "furnace-ev1",
+      "lightning",
+      "mighty-miner",
+      "minion-giant",
+      "skeletons",
+      "the-log"
+    ],
+    "nombre": "c_canon + c_esbirrogigante [25721d081f99b8e4f60b1385fd75684af3dd0b1f948d30c259368ac0f0698714]"
+  },
+  {
+    "hashId": "c_canon|c_espiritudehielo|c_esqueletos|c_paquetereal|c_puercosreales|c_reinaarquera|c_terremoto|c_tronco",
+    "id": "3fc12c1c8c2955872c6b5354b259b8f1f61a96ba6b2fbae574a654bbe70bd8fb",
+    "cartasIds": [
+      "c_canon",
+      "c_espiritudehielo",
+      "c_esqueletos",
+      "c_paquetereal",
+      "c_puercosreales",
+      "c_reinaarquera",
+      "c_terremoto",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/archer-queen,cannon-ev1,earthquake,ice-spirit,royal-delivery,royal-hogs-ev1,skeletons,the-log",
+    "variantesFuente": [
+      "archer-queen",
+      "cannon-ev1",
+      "earthquake",
+      "ice-spirit",
+      "royal-delivery",
+      "royal-hogs-ev1",
+      "skeletons",
+      "the-log"
+    ],
+    "nombre": "c_canon + c_espiritudehielo [3fc12c1c8c2955872c6b5354b259b8f1f61a96ba6b2fbae574a654bbe70bd8fb]"
+  },
+  {
+    "hashId": "c_canon|c_espirituelectrico|c_esqueletos|c_granminero|c_lanzafuegos|c_montapuercos|c_terremoto|c_tronco",
+    "id": "979f17a3f18cbee9955c9ddf795c0005b47627f4a2b7239d115e95ca1ae4e388",
+    "cartasIds": [
+      "c_canon",
+      "c_espirituelectrico",
+      "c_esqueletos",
+      "c_granminero",
+      "c_lanzafuegos",
+      "c_montapuercos",
+      "c_terremoto",
+      "c_tronco"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/cannon-ev1,earthquake,electro-spirit,firecracker-ev1,hog-rider,mighty-miner,skeletons,the-log",
+    "variantesFuente": [
+      "cannon-ev1",
+      "earthquake",
+      "electro-spirit",
+      "firecracker-ev1",
+      "hog-rider",
+      "mighty-miner",
+      "skeletons",
+      "the-log"
+    ],
+    "nombre": "c_canon + c_espirituelectrico [979f17a3f18cbee9955c9ddf795c0005b47627f4a2b7239d115e95ca1ae4e388]"
+  },
+  {
+    "hashId": "c_carnerodebatalla|c_esqueletogigante|c_fantasmareal|c_flechas|c_horno|c_lenador|c_magoelectrico|c_ronin",
+    "id": "c474edb8c1ef212901713f9984205fb30fc1d552fa0474b8e0a169240df1a48f",
+    "cartasIds": [
+      "c_carnerodebatalla",
+      "c_esqueletogigante",
+      "c_fantasmareal",
+      "c_flechas",
+      "c_horno",
+      "c_lenador",
+      "c_magoelectrico",
+      "c_ronin"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,battle-ram-ev1,electro-wizard-hero,furnace,giant-skeleton,lumberjack-ev1,ronin,royal-ghost",
+    "variantesFuente": [
+      "arrows",
+      "battle-ram-ev1",
+      "electro-wizard-hero",
+      "furnace",
+      "giant-skeleton",
+      "lumberjack-ev1",
+      "ronin",
+      "royal-ghost"
+    ],
+    "nombre": "c_carnerodebatalla + c_esqueletogigante [c474edb8c1ef212901713f9984205fb30fc1d552fa0474b8e0a169240df1a48f]"
+  },
+  {
+    "hashId": "c_cementerio|c_flechas|c_guardias|c_hielo|c_lanzarrocas|c_mosquetera|c_torreinfernal|c_valquiria",
+    "id": "7f4e336e0ed191490313a5711ca08eecd076af4ce9e1e711f491222993957dbc",
+    "cartasIds": [
+      "c_cementerio",
+      "c_flechas",
+      "c_guardias",
+      "c_hielo",
+      "c_lanzarrocas",
+      "c_mosquetera",
+      "c_torreinfernal",
+      "c_valquiria"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,bowler-hero,freeze,graveyard,guards,inferno-tower,musketeer-ev1,valkyrie-hero",
+    "variantesFuente": [
+      "arrows",
+      "bowler-hero",
+      "freeze",
+      "graveyard",
+      "guards",
+      "inferno-tower",
+      "musketeer-ev1",
+      "valkyrie-hero"
+    ],
+    "nombre": "c_cementerio + c_flechas [7f4e336e0ed191490313a5711ca08eecd076af4ce9e1e711f491222993957dbc]"
+  },
+  {
+    "hashId": "c_chispitas|c_descarga|c_enredadera|c_espiritusanador|c_gigante|c_mago|c_minipekka|c_tornado",
+    "id": "dcbad24b0f2a8071dd6389282a99f90ed86ff8192f7b793d8276a7751950e435",
+    "cartasIds": [
+      "c_chispitas",
+      "c_descarga",
+      "c_enredadera",
+      "c_espiritusanador",
+      "c_gigante",
+      "c_mago",
+      "c_minipekka",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/giant,heal-spirit,mini-pekka-hero,sparky,tornado,vines,wizard-ev1,zap-ev1",
+    "variantesFuente": [
+      "giant",
+      "heal-spirit",
+      "mini-pekka-hero",
+      "sparky",
+      "tornado",
+      "vines",
+      "wizard-ev1",
+      "zap-ev1"
+    ],
+    "nombre": "c_chispitas + c_descarga [dcbad24b0f2a8071dd6389282a99f90ed86ff8192f7b793d8276a7751950e435]"
+  },
+  {
+    "hashId": "c_chispitas|c_descarga|c_espiritusanador|c_furia|c_giganteduende|c_magoelectrico|c_minipekka|c_principeoscuro",
+    "id": "ea6cb2e946f306a4f14e1d6a2512b1db57f17d8972d86d450824f9a3a4506395",
+    "cartasIds": [
+      "c_chispitas",
+      "c_descarga",
+      "c_espiritusanador",
+      "c_furia",
+      "c_giganteduende",
+      "c_magoelectrico",
+      "c_minipekka",
+      "c_principeoscuro"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dark-prince,electro-wizard,goblin-giant-ev1,heal-spirit,mini-pekka-hero,rage,sparky,zap-ev1",
+    "variantesFuente": [
+      "dark-prince",
+      "electro-wizard",
+      "goblin-giant-ev1",
+      "heal-spirit",
+      "mini-pekka-hero",
+      "rage",
+      "sparky",
+      "zap-ev1"
+    ],
+    "nombre": "c_chispitas + c_descarga [ea6cb2e946f306a4f14e1d6a2512b1db57f17d8972d86d450824f9a3a4506395]"
+  },
+  {
+    "hashId": "c_descarga|c_dragonelectrico|c_fenix|c_golem|c_principe|c_principeoscuro|c_recolectordeelixir|c_tornado",
+    "id": "ab3e9cd48374976edb12ec9c7478aa9a90e2f77b7db82310a9cb2bbc4f63f95e",
+    "cartasIds": [
+      "c_descarga",
+      "c_dragonelectrico",
+      "c_fenix",
+      "c_golem",
+      "c_principe",
+      "c_principeoscuro",
+      "c_recolectordeelixir",
+      "c_tornado"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/dark-prince-hero,electro-dragon-ev1,elixir-collector,golem,phoenix,prince,tornado,zap-ev1",
+    "variantesFuente": [
+      "dark-prince-hero",
+      "electro-dragon-ev1",
+      "elixir-collector",
+      "golem",
+      "phoenix",
+      "prince",
+      "tornado",
+      "zap-ev1"
+    ],
+    "nombre": "c_descarga + c_dragonelectrico [ab3e9cd48374976edb12ec9c7478aa9a90e2f77b7db82310a9cb2bbc4f63f95e]"
+  },
+  {
+    "hashId": "c_descarga|c_duendelanzadardos|c_ejercitodeesqueletos|c_esbirros|c_globobombastico|c_hordadeesbirros|c_magoelectrico|c_minero",
+    "id": "1beccd18a709a0f132468c2a6c02c6344dc5d996507b16a375d02a918036edbd",
+    "cartasIds": [
+      "c_descarga",
+      "c_duendelanzadardos",
+      "c_ejercitodeesqueletos",
+      "c_esbirros",
+      "c_globobombastico",
+      "c_hordadeesbirros",
+      "c_magoelectrico",
+      "c_minero"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/balloon-hero,dart-goblin,electro-wizard,miner,minion-horde-ev1,minions,skeleton-army-ev1,zap",
+    "variantesFuente": [
+      "balloon-hero",
+      "dart-goblin",
+      "electro-wizard",
+      "miner",
+      "minion-horde-ev1",
+      "minions",
+      "skeleton-army-ev1",
+      "zap"
+    ],
+    "nombre": "c_descarga + c_duendelanzadardos [1beccd18a709a0f132468c2a6c02c6344dc5d996507b16a375d02a918036edbd]"
+  },
+  {
+    "hashId": "c_descarga|c_duendes|c_emperatrizespiritual|c_fantasmareal|c_horno|c_megacaballero|c_montacarneros|c_veneno",
+    "id": "0b9d3501ccbedfcf8b26df2c33fcb8966d6976e20a3aef6374636e584671c51d",
+    "cartasIds": [
+      "c_descarga",
+      "c_duendes",
+      "c_emperatrizespiritual",
+      "c_fantasmareal",
+      "c_horno",
+      "c_megacaballero",
+      "c_montacarneros",
+      "c_veneno"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/furnace,goblins-hero,mega-knight-ev1,poison,ram-rider,royal-ghost-ev1,spirit-empress,zap",
+    "variantesFuente": [
+      "furnace",
+      "goblins-hero",
+      "mega-knight-ev1",
+      "poison",
+      "ram-rider",
+      "royal-ghost-ev1",
+      "spirit-empress",
+      "zap"
+    ],
+    "nombre": "c_descarga + c_duendes [0b9d3501ccbedfcf8b26df2c33fcb8966d6976e20a3aef6374636e584671c51d]"
+  },
+  {
+    "hashId": "c_ejercitodeesqueletos|c_espirituelectrico|c_esqueletos|c_flechas|c_mago|c_minipekka|c_montapuercos|c_torreinfernal",
+    "id": "c18419339f2c15c5b8d7f417b30f17269815c971e68c044a65184afb3e016ab4",
+    "cartasIds": [
+      "c_ejercitodeesqueletos",
+      "c_espirituelectrico",
+      "c_esqueletos",
+      "c_flechas",
+      "c_mago",
+      "c_minipekka",
+      "c_montapuercos",
+      "c_torreinfernal"
+    ],
+    "fuente": "https://royaleapi.com/decks/stats/arrows,electro-spirit,hog-rider,inferno-tower,mini-pekka-hero,skeleton-army-ev1,skeletons,wizard-ev1",
+    "variantesFuente": [
+      "arrows",
+      "electro-spirit",
+      "hog-rider",
+      "inferno-tower",
+      "mini-pekka-hero",
+      "skeleton-army-ev1",
+      "skeletons",
+      "wizard-ev1"
+    ],
+    "nombre": "c_ejercitodeesqueletos + c_espirituelectrico [c18419339f2c15c5b8d7f417b30f17269815c971e68c044a65184afb3e016ab4]"
+  }
+]
